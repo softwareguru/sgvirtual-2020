@@ -1,6 +1,5 @@
 
 ######################## default configuration ####################
-baseURL = "https://sg.com.mx"
 title = "SG Virtual Conference"
 enableRobotsTXT = true
 DefaultContentLanguage = "es"
