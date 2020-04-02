@@ -19,10 +19,10 @@
   
     {{ $scssCustom := "scss/custom.scss"}}
     {{ if .Site.IsServer }}
-        {{ $css := resources.Get $scssCustom | toCSS (dict "enableSourceMap" true) | postCSS }}
+        {{ $css := resources.Get $scssCustom | toCSS (dict "enableSourceMap" true) }}
         <link href="{{ $css.RelPermalink }}" rel="stylesheet">
     {{ else }}
-        {{ $css := resources.Get $scssCustom | toCSS (dict "enableSourceMap" false) | postCSS | minify | fingerprint }}
+        {{ $css := resources.Get $scssCustom | toCSS (dict "enableSourceMap" false) | minify | fingerprint }}
         <link rel="preload" href="{{ $css.RelPermalink }}" as="style">
         <link href="{{ $css.RelPermalink }}" rel="stylesheet" integrity="{{ $css.Data.integrity }}">
     {{ end }}
