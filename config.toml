@@ -37,63 +37,13 @@ link = "plugins/themefisher-font/themefisher-font.min.css"
 link = "plugins/jquery/jquery.js"
 [[params.plugins.js]]
 link = "plugins/bootstrap/js/bootstrap.min.js"
-[[params.plugins.js]]
-link = "plugins/syotimer/syotimer.min.js"
-[[params.plugins.js]]
-link = "plugins/search/fuse.min.js"
-[[params.plugins.js]]
-link = "plugins/search/mark.js"
-[[params.plugins.js]]
-link = "plugins/search/search.js"
-[[params.plugins.js]]
-link = "plugins/google-map/map.js"
 
 ############################## navigation ###############################
-[menu]
-    
-  [[menu.main]]
-  name = "About"
-  URL = "about"
-  weight = 2
-  
-  [[menu.main]]
-  name = "Speakers"
-  URL = "speaker"
-  weight = 3
 
-  [[menu.main]]
-  weight = 4
-  name = "Pages"
-  hasChildren = true
-
-    [[menu.main]]
-    parent = "Pages"
-    name = "Tickets"
-    URL = "pricing"
-
-    [[menu.main]]
-    parent = "Pages"
-    name = "Blog"
-    URL = "blog"
-
-    [[menu.main]]
-    parent = "Pages"
-    name = "Schedule"
-    URL = "schedule"
-
-    [[menu.main]]
-    parent = "Pages"
-    name = "FAQ"
-    URL = "faq"
-    
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight = 5
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/logo.jpg"
 home = "Home"
 # Meta data
 description = "This is meta description"
@@ -115,47 +65,39 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Get Ticket"
-link = "pricing"
+label = "Regístrate"
+link = "register"
 
-
-# Subscription
-[params.subscription]
-enable = true
-# mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
-
-# google map
-[params.map]
-enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
-map_marker = "images/marker.png"
 
 
 ############################# social icon ############################
 [[params.social]]
 icon = "tf-ion-social-facebook"
-link = "#"
+link = "https://facebook.com/softwareguru"
 
 [[params.social]]
 icon = "tf-ion-social-twitter"
-link = "#"
+link = "https://twitter.com/RevistaSG"
 
 [[params.social]]
-icon = "tf-ion-social-linkedin"
-link = "#"
+icon = "tf-ion-social-youtube"
+link = "https://youtube.com/user/RevistaSG"
 
-[[params.social]]
-icon = "tf-ion-social-pinterest"
-link = "#"
+[[params.footer_links]]
+name = "Best Place to Code"
+link = "https://bestplacetocode.com"
 
-[[params.social]]
-icon = "tf-ion-social-rss"
-link = "#"
+[[params.footer_links]]
+name = "Data Day"
+link = "https://sg.com.mx/dataday"
 
+[[params.footer_links]]
+name = "Dev Day 4 Women"
+link = "https://devday4w.com"
+
+[[params.footer_links]]
+name = "Developer Relations"
+link = "https://devrel.sg.com.mx"
 
 ################################### English language #####################################
 
@@ -163,21 +105,20 @@ link = "#"
 ################################### English language #####################################
 
   [languages.es]
-    languageName = "Es"
+    languageName = "Español"
     languageCode = "es-mx"
     contentDir = "content/es-mx"
     weight = 1
     home = "Inicio"
-    footer_content = "Somos una agencia bien picuda."
-    copyright = "Creative Commons [themefisher](https://themefisher.com)"
+    footer_content = "Es otro fantástico evento de [Software Guru](https://sg.com.mx). <br>SG es el medio preferido por las personas de habla hispana interesadas en construir software de alto desempeño."
 
   [languages.en]
-    languageName = "En"
+    languageName = "English"
     languageCode = "en-us"
     contentDir = "content/en-us"
     weight = 2
     home = "Home"
     footer_content = "We are a creative-led experiential Event Production Agency that helps brands connect, engage and evolve."
-    copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+
 
 

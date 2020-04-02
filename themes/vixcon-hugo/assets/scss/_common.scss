@@ -1,5 +1,5 @@
 .section {
-  padding: 90px 0px;
+  padding: 70px 0px;
 }
 
 .section-sm {
@@ -72,13 +72,11 @@
   font-family: $base-font;
 }
 
-
-
 .btn-rounded {
   border-radius: 60px;
 }
 
-.btn-hero {
+.btn-hero1 {
   background: $primary-color;
   color: $white;
   border-color: $primary-color;
@@ -90,6 +88,17 @@
   }
 }
 
+.btn-hero2 {
+  background: $secondary-color;
+  color: $white;
+  border-color: $secondary-color;
+
+  &:hover {
+    background: $black;
+    border-color: $black;
+    color: $white;
+  }
+}
 
 
 .btn-secondary {

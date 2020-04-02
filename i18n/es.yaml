@@ -14,7 +14,7 @@
   translation: Buscar
 
 - id: categories
-  translation: Categories
+  translation: Track
 
 - id: tags
   translation: Tags
@@ -33,3 +33,12 @@
 
 - id: professional_skills
   translation: Professional Skills
+
+- id: by
+  translation: Por
+
+- id: language
+  translation: Idioma  
+
+- id: more_sg
+  translation: Otras maravillas de SG

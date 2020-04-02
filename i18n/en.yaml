@@ -14,7 +14,7 @@
   translation: Search
 
 - id: categories
-  translation: Categories
+  translation: Tracks
 
 - id: tags
   translation: Tags
@@ -33,3 +33,9 @@
 
 - id: professional_skills
   translation: Professional Skills
+
+- id: by
+  translation: By
+
+- id: language
+  translation: Language

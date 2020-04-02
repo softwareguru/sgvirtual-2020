@@ -58,22 +58,3 @@
 	}
 }
 
-// Responsive
-
-
-@include mobile{
-	.latest-blog {
-		padding-top: 100px;
-	}
-}
-
-@include mobile-xs{
-	.latest-blog {
-		padding-top: 100px;
-	}
-}
-@include tablet{
-	.latest-blog {
-		padding-top: 100px;
-	}
-}

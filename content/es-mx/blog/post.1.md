@@ -1,10 +1,8 @@
 ---
 title: "5 Creative Ideas for Conference Sessions"
-date: 2019-09-10T13:51:25+06:00
+date: 2020-03-15T13:51:25+06:00
 draft: false
 description: "this is meta description"
-# page title backgrount image
-bg_image : "images/bg/cta-bg.jpg"
 # post thumb
 image : "images/blog/blog-2.jpg"
 # author

@@ -1,18 +1,3 @@
-.sponsors {
-	position: relative;
-	background: url("../images/bg/cta-bg.jpg")no-repeat fixed 50% 50%;
-	background-size: cover;
-
-	&:before {
-		position: absolute;
-		content: "";
-		left: 0px;
-		top: 0px;
-		width: 100%;
-		height: 100%;
-		background: rgba(0, 0, 0, 0.97);
-	}
-}
 
 .client-item {
 	a {

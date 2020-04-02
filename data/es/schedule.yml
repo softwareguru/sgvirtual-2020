@@ -1,13 +1,121 @@
 schedule:
   enable : true
-  title_outline : "schedule"
-  title : "Topic Discussion"
-  content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis option."
+  title_outline : "Agenda"
+  title : "5 días llenos de conocimiento"
+  content : "Pronto publicaremos las sesiones confirmadas."
   schedule_tab:
     ################# tab itam loop ################
-    - title : "Day 1"
-      date_time : "13 Nov ,2019 [09.00am - 04.00pm]"
+    - title : "Lunes"
+      date_time : "20 de abril"
       schedule_items:
+
+        - time : "12:00-12:50"
+          title : "Sesión por confirmar"
+          speaker: "Por confirmar"
+          link : "/sgvirtual/sessions/hola"
+          country : "mx"
+          lang: "Español"
+
+          
+        - time : "13:00-13:50"
+          title : "Otra sesión"
+          speaker: "Juan Pérez"
+          link : "/sgvirtual/sessions/hola"
+          country : "gt"
+          lang: "Español"
+          
+        # schedule loop item
+        - time : "9.00am"
+          image : "images/about/lunch.jpg"
+          content : "
+          
+          ### Launch Break
+
+          ###### By Risabh moinul
+
+          Founder of themefisher
+          "
+          
+        # schedule loop item
+        - time : "2.00pm"
+          image : "images/about/creativity.jpg"
+          content : "
+          
+          ### Cultures of Creativity
+
+          ###### By Risabh moinul
+
+          Founder of themefisher
+          "
+          
+    ################# tab itam loop ################
+    - title : "Martes"
+      date_time : "21 de abril"
+      schedule_items:
+        # schedule loop item
+        - time : "2.00pm"
+          image : "images/about/creativity.jpg"
+          content : "
+          
+          ### Cultures of Creativity
+
+          ###### By Risabh moinul
+
+          Founder of themefisher
+          "
+
+        # schedule loop item
+        - time : "9.00am"
+          image : "images/about/wordpress.png"
+          content : "
+          
+          ### Launch Break
+
+          ###### By Risabh moinul
+
+          Founder of themefisher
+          "
+          
+        # schedule loop item
+        - time : "9.00am"
+          image : "images/about/big-data.png"
+          content : "
+          
+          ### Marketing Matters in design area
+
+          ###### By Risabh moinul
+
+          Founder of themefisher
+          "
+          
+    ################# tab itam loop ################
+    - title : "Miércoles"
+      date_time : "22 de abril"
+      schedule_items:
+        # schedule loop item
+        - time : "9.00am"
+          image : "images/about/big-data.png"
+          content : "
+          
+          ### Marketing Matters in design area
+
+          ###### By Risabh moinul
+
+          Founder of themefisher
+          "
+          
+        # schedule loop item
+        - time : "9.00am"
+          image : "images/about/lunch.jpg"
+          content : "
+          
+          ### Launch Break
+
+          ###### By Risabh moinul
+
+          Founder of themefisher
+          "
+
         # schedule loop item
         - time : "9.00am"
           image : "images/about/wordpress.png"
@@ -18,6 +126,31 @@ schedule:
           ###### By Risabh moinul
 
           Founder of themefisher
+          "
+          
+        # schedule loop item
+        - time : "2.00pm"
+          image : "images/about/creativity.jpg"
+          content : "
+          
+          ### Cultures of Creativity
+
+          ###### By Risabh moinul
+
+          Founder of themefisher
+          "
+    ################# tab itam loop ################
+    - title : "Jueves"
+      date_time : "23 de abril"
+      schedule_items:
+        # schedule loop item
+        - time : "12:00-12:50"
+          content : "
+          
+          ### Introduction of material Design
+
+          ###### By Risabh moinul
+
           "
           
         # schedule loop item
@@ -57,49 +190,14 @@ schedule:
           "
           
     ################# tab itam loop ################
-    - title : "Day 2"
-      date_time : "14 Nov ,2019 [09.00am - 04.00pm]"
+    - title : "Viernes"
+      date_time : "24 de abril"
       schedule_items:
-        # schedule loop item
-        - time : "2.00pm"
-          image : "images/about/creativity.jpg"
-          content : "
+        - time : "12:00-12:50"
+          title : "Introduction of material Design"
+          speaker: "Risabh moinul"
+          link : "/sgvirtual/sessions/hola"
           
-          ### Cultures of Creativity
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
-
-        # schedule loop item
-        - time : "9.00am"
-          image : "images/about/wordpress.png"
-          content : "
-          
-          ### Launch Break
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
-          
-        # schedule loop item
-        - time : "9.00am"
-          image : "images/about/big-data.png"
-          content : "
-          
-          ### Marketing Matters in design area
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
-          
-    ################# tab itam loop ################
-    - title : "Day 3"
-      date_time : "15 Nov ,2019 [09.00am - 04.00pm]"
-      schedule_items:
         # schedule loop item
         - time : "9.00am"
           image : "images/about/big-data.png"
@@ -123,18 +221,6 @@ schedule:
 
           Founder of themefisher
           "
-
-        # schedule loop item
-        - time : "9.00am"
-          image : "images/about/wordpress.png"
-          content : "
-          
-          ### Introduction of material Design
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
           
         # schedule loop item
         - time : "2.00pm"
@@ -147,3 +233,5 @@ schedule:
 
           Founder of themefisher
           "
+          
+
