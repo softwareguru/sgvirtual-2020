@@ -149,7 +149,7 @@ link = "https://devrel.sg.com.mx"
 
   [[languages.en.menu.main]]
     name = "Schedule"
-    URL = "/schedule"
+    URL = "schedule"
     weight = 1
   
   [[languages.en.menu.main]]
@@ -159,12 +159,12 @@ link = "https://devrel.sg.com.mx"
 
   [[languages.en.menu.main]]
     name = "Sponsors"
-    URL = "/sponsors"
+    URL = "/en/sponsors"
     weight = 3
 
   [[languages.en.menu.main]]
     name = "FAQ"
-    URL = "/faq"
+    URL = "/en/faq"
     weight = 4
 
 
