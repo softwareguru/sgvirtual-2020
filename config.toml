@@ -149,12 +149,12 @@ link = "https://devrel.sg.com.mx"
 
   [[languages.en.menu.main]]
     name = "Schedule"
-    URL = "/en/schedule"
+    URL = "/schedule"
     weight = 1
   
   [[languages.en.menu.main]]
     name = "Speakers"
-    URL = "/en/speakers"
+    URL = "/speakers"
     weight = 2
 
   [[languages.en.menu.main]]

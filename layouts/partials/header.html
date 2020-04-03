@@ -32,32 +32,23 @@
           </li>
           {{ else }}
           <li class="nav-item">
-            <a class="nav-link" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+            <a class="nav-link" href="{{ .URL | absURL }}">{{ .Name }}</a>
           </li>
           {{ end }}
           {{ end }}
         </ul>
 
         <!-- Language List -->
-        {{ if .IsTranslated }}
           <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
-          {{ $siteLanguages := .Site.Languages}}
           {{ $pageLang := .Page.Lang}}
-          {{ range .Page.AllTranslations }}
-            {{ $translation := .}}
-            {{ range $siteLanguages }}
-              {{ if eq $translation.Lang .Lang }}
-                {{ $selected := false }}
-                {{ if eq $pageLang .Lang}}
-                  <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>{{ .LanguageName }}</option>
-                {{ else }}
-                  <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ .LanguageName }}</option>
-                {{ end }}
-              {{ end }}
-            {{ end }}
+          {{ if eq $pageLang "es" }}
+            <option id="es" value="/" selected>Español</option>
+            <option id="en" value="/en">English</option>
+          {{ else }}
+            <option id="en" value="/en" selected>English</option>
+            <option id="es" value="/">Español</option>
           {{ end }}
           </select>
-        {{ end }}        
                 
         
         {{ if .Site.Params.navigation_button.enable }}
