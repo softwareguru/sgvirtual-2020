@@ -1,7 +1,7 @@
 ---
 title: "David Sol"
 date: 2020-04-02T19:51:11-05:00
-image : "images/speakers/david_sol.jpg"
+image : "/images/speakers/david_sol.jpg"
 designation : "Consultor de nube pública @ T-Systems"
 country: "mx"
 type : "speaker"

@@ -1,7 +1,7 @@
 ---
 title: "Edén Candelas"
 date: 2020-04-02T20:03:56-05:00
-image : "images/speakers/eden.jpg"
+image : "/images/speakers/eden.jpg"
 designation : "CoFounder @ ParadoxaLabs y HackerspaceMty"
 country: "mx"
 type : "speaker"

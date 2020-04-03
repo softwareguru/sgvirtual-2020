@@ -1,7 +1,7 @@
 ---
 title: "Jorge Alberto Nájera Salmerón"
 date: 2020-04-02T13:35:37-05:00
-image : "images/speakers/jorgenajera.jpg"
+image : "/images/speakers/jorgenajera.jpg"
 designation : "Consultor en Ciencia de Datos para Finanzas e Inversiones."
 country: "mx"
 type : "speaker"

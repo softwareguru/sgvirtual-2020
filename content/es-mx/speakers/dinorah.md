@@ -1,7 +1,7 @@
 ---
 title: "Dinorah Tovar Duarte"
 date: 2020-04-02T20:01:39-05:00
-image : "images/speakers/dinorah.jpg"
+image : "/images/speakers/dinorah.jpg"
 designation : "Lead Mobile Engineer @ Konfio"
 country: "mx"
 type : "speaker"

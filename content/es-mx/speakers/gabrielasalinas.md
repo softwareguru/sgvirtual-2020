@@ -1,7 +1,7 @@
 ---
 title: "Gabriela Salinas"
 date: 2020-04-02T20:13:00-05:00
-image : "images/speakers/gabrielasalinas.jpg"
+image : "/images/speakers/gabrielasalinas.jpg"
 designation : "CEO @ Service Design México"
 country: "mx"
 type : "speaker"

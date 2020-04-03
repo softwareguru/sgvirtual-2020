@@ -2,7 +2,7 @@
 title: "Roselyn Piñango"
 date: 2020-04-02T13:22:16-05:00
 draft: false
-image : "images/speakers/roselyn.jpg"
+image : "/images/speakers/roselyn.jpg"
 designation : "Líder de Testing Factory"
 country: "ar"
 type : "speaker"
