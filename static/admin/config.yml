@@ -21,3 +21,14 @@ collections:
       - {label: "Oneliner", name: "designation", widget: "string"}
       - {label: "País", name: "country", widget: "string", default: "mx"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "sessions" # Used in routes, e.g., /admin/collections/blog
+    label: "Sesion" # Used in the UI
+    folder: "content/es-mx/sessions" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Speaker", name: "author", widget: "string"}
+      - {label: "Horario inicio", name: "schedule_start", widget: "datetime"}      
+      - {label: "Body", name: "body", widget: "markdown"}
