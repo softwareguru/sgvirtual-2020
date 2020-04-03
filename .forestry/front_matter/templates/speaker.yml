@@ -1,0 +1,32 @@
+---
+label: Speaker
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: image
+  label: image
+- type: text
+  name: designation
+  label: designation
+- type: text
+  name: country
+  label: country
+- type: text
+  name: type
+  label: type
+- type: field_group_list
+  name: social
+  label: social
+  fields:
+  - type: text
+    name: icon
+    label: icon
+  - type: text
+    name: link
+    label: link
