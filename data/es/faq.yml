@@ -2,26 +2,21 @@
 faq:
   title_outline : "FAQ"
   title : "Preguntas frecuentes"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis fugit doloribus sunt sapiente,
-            corrupti numquam, earum molestiae iure maxime in nostrum sit facilis nemo. Magnam quam voluptate consequatur
-            inventore numquam?"
+  content : ""
   faq_item:
-    - title : "Como me registro"
-      content : "Hola mundo"
+    - title : "¿Cómo me registro?"
+      content : "Por favor llena la forma en <a href='/sgvirtual/register'>esta página</a>"
       
-    - title : "¿Segunda pregunta?"
-      content : "Respuesta 2"
+    - title : "¿Qué software necesito para conectarme?"
+      content : "Solo necesitas una computadora con un navegador web actualizado, de preferencia Google Chrome o Mozilla Firefox."
       
-    - title : "Pregunta 3"
-      content : "Respuesta 3"
-      
-    - title : "How to buy a Tickets"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore beatae eius incidunt repudiandae deserunt illum quaerat ipsum rem odio, commodi."
-      
+    - title : "¿Darán constancias de participación?"
+      content : Sí. A las personas que participan en un mínimo de 5 sesiones le haremos llegar su constancia de participación."
+            
 
   ################ support #################
   support:
-    title : "Necesitas soporte?"
+    title : "¿Necesitas soporte?"
     button:
       lable : "Contáctanos"
       link : "contact"

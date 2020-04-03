@@ -10,43 +10,30 @@ schedule:
       schedule_items:
 
         - time : "12:00-12:50"
-          title : "Sesión por confirmar"
-          speaker: "Por confirmar"
-          link : "/sgvirtual/sessions/hola"
-          country : "mx"
-          lang: "Español"
+          title : "Por definir"
+          speaker: ""
+          country : ""
+          lang: ""
 
           
         - time : "13:00-13:50"
-          title : "Otra sesión"
-          speaker: "Juan Pérez"
-          link : "/sgvirtual/sessions/hola"
-          country : "gt"
-          lang: "Español"
+          title : "Por definir"
+          speaker: ""
+          country : ""
+          lang: ""
           
-        # schedule loop item
-        - time : "9.00am"
-          image : "images/about/lunch.jpg"
-          content : "
+        - time : "14:00-14:50"
+          title : "Lightning talks"
+          speaker: "Varios"
+          country : ""
+          lang: ""
           
-          ### Launch Break
+        - time : "15:00-15:50"
+          title : "Por definir"
+          speaker: ""
+          country : ""
+          lang: ""
 
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
-          
-        # schedule loop item
-        - time : "2.00pm"
-          image : "images/about/creativity.jpg"
-          content : "
-          
-          ### Cultures of Creativity
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
           
     ################# tab itam loop ################
     - title : "Martes"

@@ -1,7 +1,25 @@
 @import 'media-query.scss';
 
+.headshot-box {
+	position: relative;
+}
+
+.flag-ribbon{
+	width: 50px;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+  }
+  
+
 .logo-b {
 	height: 12vh;
+}
+
+.speaker-strip {
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+	grid-gap: 20px;
 }
 
 .sponsor-strip.sponsor {

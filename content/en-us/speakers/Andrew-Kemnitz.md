@@ -1,6 +1,7 @@
 ---
 title: "Andrew Kemnitz"
 image : "images/teams/s-5.jpg"
+draft: true
 designation : "UI designer"
 type : "speaker"
 social:

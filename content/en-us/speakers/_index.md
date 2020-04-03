@@ -1,5 +1,5 @@
 ---
-title: "Conferencistas"
+title: "Speakers"
 # menu:
 #  main:
 #    weight: 3

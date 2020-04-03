@@ -1,0 +1,35 @@
+enable :  true
+title_outline : "Sponsors"
+title : "SG Virtual is possible thanks to"
+sponsor_group:
+  - title : "Sponsors"
+    slug : "sponsor"
+    sponsor:
+      - logo : "images/logos/microsoft.png"
+        link : "https://microsoft.com"
+          
+      - logo : "images/logos/google.png"
+        link : "https://google.com"
+                    
+      - logo : "images/logos/snowflake.png"
+        link : "https://snowflake.com"
+          
+    ############################ sponsor group loop
+  - title : "Partners"
+    slug : "partner"
+    sponsor:
+      - logo : "images/logos/prosoftware.png"
+        link : "http://www.prosoftware.org.mx"
+          
+      - logo : "images/logos/datapub.png"
+        link : "#"
+          
+                      
+# call to action in sponsor
+sponsorship:
+  enable : true
+  title : "Interested in joining?"
+  #button
+  label : "Request our Prospect us"
+  link : "mailto:sgvirtual@sg.com.mx"
+
