@@ -1,7 +1,7 @@
 ---
 title: "Andrés Almiray"
 date: 2020-04-02T18:28:40-05:00
-image : "images/speakers/aalmiray.jpg"
+image : "/images/speakers/aalmiray.jpg"
 designation : "Seasoned Sourceror @ Oracle"
 country: "ch"
 type : "speaker"
