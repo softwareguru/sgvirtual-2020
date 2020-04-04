@@ -1,7 +1,7 @@
 ---
 title: "Angel Alvarado"
 date: 2020-04-02T18:32:11-05:00
-image : "/images/speakers/angel_r.jpg"
+image : "/sgvirtual/images/speakers/angel_r.jpg"
 designation : "Senior Software Engineer @ One Degree | Data Engineer @ Molanco"
 country: "us"
 type : "speaker"

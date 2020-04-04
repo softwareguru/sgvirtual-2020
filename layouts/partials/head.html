@@ -32,7 +32,7 @@
   
     {{ $scssCustom := "scss/custom.scss"}}
     {{ $css := resources.Get $scssCustom | toCSS (dict "enableSourceMap" true) }}
-    <link href="{{ $css.RelPermalink }}" rel="stylesheet">
+    <link rel="stylesheet" href="{{ $css.Permalink }}" media="screen">
   
     {{ "<!--Favicon-->" | safeHTML }}
     <link rel="shortcut icon" href="{{ `favicon.ico` | absURL }}" type="image/x-icon">

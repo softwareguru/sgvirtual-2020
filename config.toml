@@ -1,5 +1,6 @@
 
 ######################## default configuration ####################
+baseURL = "https://sg.com.mx/sgvirtual"
 title = "SG Virtual Conference"
 enableRobotsTXT = true
 DefaultContentLanguage = "es"
@@ -27,22 +28,22 @@ home = ["HTML", "RSS", "JSON"]
 ############################# Plugins ##############################
 # CSS Plugins
 [[params.plugins.css]]
-link = "/plugins/bootstrap/css/bootstrap.min.css"
+link = "/sgvirtual/plugins/bootstrap/css/bootstrap.min.css"
 [[params.plugins.css]]
-link = "/plugins/themefisher-font/themefisher-font.min.css"
+link = "/sgvirtual/plugins/themefisher-font/themefisher-font.min.css"
 
 # JS Plugins
 [[params.plugins.js]]
-link = "/plugins/jquery/jquery.js"
+link = "/sgvirtual/plugins/jquery/jquery.js"
 [[params.plugins.js]]
-link = "/plugins/bootstrap/js/bootstrap.min.js"
+link = "/sgvirtual/plugins/bootstrap/js/bootstrap.min.js"
 
 ############################## navigation ###############################
 
 
 #################### default parameters ################################
 [params]
-logo = "/images/logo.jpg"
+logo = "/sgvirtual/images/logo.jpg"
 home = "Home"
 
 # Meta data
