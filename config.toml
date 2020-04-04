@@ -121,22 +121,22 @@ link = "https://devrel.sg.com.mx"
     
   [[languages.es.menu.main]]
   name = "Agenda"
-  URL = "/schedule"
+  URL = "/schedule/"
   weight = 1
   
   [[languages.es.menu.main]]
   name = "Conferencistas"
-  URL = "/speakers"
+  URL = "/speakers/"
   weight = 2
 
   [[languages.es.menu.main]]
   name = "Patrocinadores"
-  URL = "/sponsors"
+  URL = "/sponsors/"
   weight = 3
 
   [[languages.es.menu.main]]
   name = "FAQ"
-  URL = "/faq"
+  URL = "/faq/"
   weight = 4
 
 
@@ -150,22 +150,22 @@ link = "https://devrel.sg.com.mx"
 
   [[languages.en.menu.main]]
     name = "Schedule"
-    URL = "/schedule"
+    URL = "/schedule/"
     weight = 1
   
   [[languages.en.menu.main]]
     name = "Speakers"
-    URL = "/speakers"
+    URL = "/speakers/"
     weight = 2
 
   [[languages.en.menu.main]]
     name = "Sponsors"
-    URL = "/en/sponsors"
+    URL = "/en/sponsors/"
     weight = 3
 
   [[languages.en.menu.main]]
     name = "FAQ"
-    URL = "/en/faq"
+    URL = "/en/faq/"
     weight = 4
 
 
