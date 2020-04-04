@@ -8,7 +8,6 @@ image : "images/blog/blog-2.jpg"
 author: "John Doe"
 # Taxonomies
 categories: ["Agile"]
-tags: ["", "Agency"]
 # type
 type: "charla"
 ---

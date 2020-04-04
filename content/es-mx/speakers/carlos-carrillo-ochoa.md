@@ -1,7 +1,7 @@
 ---
 title: Carlos Carrillo Ochoa
 image: /images/speakers/carrilloochoa.jpg
-designation: Software Development Manager at Tacit Knowledge
+designation: Software Development Manager @ Tacit Knowledge
 country: mx
 linkedin: "https://www.linkedin.com/in/carrilloochoa/"
 ---

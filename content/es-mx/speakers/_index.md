@@ -8,6 +8,6 @@ description: "this is meta description"
 bg_image : "images/bg/cta-bg.jpg"
 ---
 
-## Nuestros gurús
+## Mire usted nada más
 
-Conoce a los conferencistas que nos acompañarán en SG Virtual.
+SG Virtual reúne a conferencistas expertos que nos acompañan de distintas partes del mundo.
