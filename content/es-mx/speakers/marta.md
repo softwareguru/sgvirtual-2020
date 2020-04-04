@@ -1,20 +1,12 @@
 ---
-title: "Marta Silvya del Rio"
+title: "Marta Sylvia del Rio"
 date: 2020-04-02T12:32:17-05:00
 draft: false
 image : "/images/speakers/msr2.jpg"
 designation : "Directora regional @ UXPA para América Latina | Profesora de la Universidad de Monterrey"
 country: "mx"
-type : "speaker"
-social:
-  - icon : "tf-ion-social-facebook"
-    link : ""
-
-  - icon : "tf-ion-social-twitter"
-    link : ""
-
-  - icon : "tf-ion-social-linkedin"
-    link : ""
+linkedin: "https://www.linkedin.com/in/martasylviadelrio/"
+twitter: "https://twitter.com/maidelrio"
 
 ---
 

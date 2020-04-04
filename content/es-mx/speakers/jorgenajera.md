@@ -4,16 +4,7 @@ date: 2020-04-02T13:35:37-05:00
 image : "/images/speakers/jorgenajera.jpg"
 designation : "Consultor en Ciencia de Datos para Finanzas e Inversiones."
 country: "mx"
-type : "speaker"
-social:
-  - icon : "tf-ion-social-facebook"
-    link : ""
-
-  - icon : "tf-ion-social-twitter"
-    link : ""
-
-  - icon : "tf-ion-social-linkedin"
-    link : ""
+linkedin: "https://www.linkedin.com/in/jorge-alberto-n%C3%A1jera-salmer%C3%B3n-a61a93165/"
 
 ---
 

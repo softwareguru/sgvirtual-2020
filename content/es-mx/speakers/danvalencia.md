@@ -4,13 +4,8 @@ date: 2020-04-02T19:01:47-05:00
 image : "/images/speakers/danvalencia.jpg"
 designation : "Senior Software Engineer @ HELIX RE"
 country: "us"
-type : "speaker"
-social:
-  - icon : "tf-ion-social-twitter"
-    link : ""
-
-  - icon : "tf-ion-social-linkedin"
-    link : ""
+twitter: "https://twitter.com/_DanValencia"
+linkedin: "https://www.linkedin.com/in/danvalencia/"
 
 ---
 

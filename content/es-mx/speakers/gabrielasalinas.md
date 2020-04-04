@@ -4,13 +4,9 @@ date: 2020-04-02T20:13:00-05:00
 image : "/images/speakers/gabrielasalinas.jpg"
 designation : "CEO @ Service Design México"
 country: "mx"
-type : "speaker"
-social:
-  - icon : "tf-ion-social-twitter"
-    link : ""
+twitter: "https://twitter.com/gabrielasalinas"
+linkedin: "https://www.linkedin.com/in/gabriela%E2%80%93salinas/"
 
-  - icon : "tf-ion-social-linkedin"
-    link : ""
 
 ---
 
