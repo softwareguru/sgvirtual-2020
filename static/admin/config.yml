@@ -35,6 +35,6 @@ collections:
       - {label: "Speaker(s)", name: "speakers", widget: "relation", collection: "speakers", searchFields: ["title"], valueField: "title", multiple: true }
       - {label: "Track", name: "tracks", widget: "select", options: ["Agile & Cultura", "Arquitectura & DevOps", "Data", "Tendencias & Carrera", "Testing", "UX / CX"], multiple: true }
       - {label: "Día", name: "day_num", widget: "number"}
-      - {label: "Hora inicio", name: "time_start", widget: "datetime" }
-      - {label: "Hora fin", name: "time_end", widget: "datetime"}
+      - {label: "Hora inicio", name: "time_start", widget: "datetime", default: "2020-04-21T18:00:00.000Z" }
+      - {label: "Hora fin", name: "time_end", widget: "datetime", default: "2020-04-21T18:50:00.000Z" }
       - {label: "Body", name: "body", widget: "markdown"}

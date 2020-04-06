@@ -43,7 +43,8 @@
             {{ range where (where $.Site.Pages "Section" "sessions") ".Params.day_num" ($.Scratch.Get `counter`) }}
             <li class="d-md-flex align-items-center justify-content-between bg-light p-4 mb-3">
               {{ with .Params.time_start | time  }}
-                <h4 class="time text-color">{{ .Format "15:04" }}</h4>
+                {{ $hour := .Hour | int }}
+                <h4 class="time text-color">{{ sub $hour 5 }}:{{ .Format "04" }}</h4>
               {{ end }}
                 <div class="content">                
                 <h3>
