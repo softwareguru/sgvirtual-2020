@@ -7,217 +7,27 @@ schedule:
     ################# tab itam loop ################
     - title : "Lunes"
       date_time : "20 de abril"
-      schedule_items:
-
-        - time : "12:00-12:50"
-          title : "Así publicamos las apps de Spotify sin stress"
-          speaker: "Erick Camacho"
-          country : "se"
-
-          
-        - time : "13:00-13:50"
-          title : ""
-          speaker: ""
-          country : ""
-          lang: ""
-          
-        - time : "14:00-14:50"
-          title : "Lightning talks"
-          speaker: "Varios"
-          country : ""
-          lang: ""
-          
-        - time : "15:00-15:50"
-          title : "Por definir"
-          speaker: ""
-          country : ""
-          lang: ""
-
+      tracks: "Agile, Cultura & Testing"
           
     ################# tab itam loop ################
     - title : "Martes"
       date_time : "21 de abril"
-      schedule_items:
-        # schedule loop item
-        - time : "2.00pm"
-          image : "images/about/creativity.jpg"
-          content : "
-          
-          ### Cultures of Creativity
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
-
-        # schedule loop item
-        - time : "9.00am"
-          image : "images/about/wordpress.png"
-          content : "
-          
-          ### Launch Break
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
-          
-        # schedule loop item
-        - time : "9.00am"
-          image : "images/about/big-data.png"
-          content : "
-          
-          ### Marketing Matters in design area
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
+      tracks: "Arquitectura & DevOps"
           
     ################# tab itam loop ################
     - title : "Miércoles"
       date_time : "22 de abril"
-      schedule_items:
-        # schedule loop item
-        - time : "9.00am"
-          image : "images/about/big-data.png"
-          content : "
-          
-          ### Marketing Matters in design area
+      tracks: "Data science & engineering"
 
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
-          
-        # schedule loop item
-        - time : "9.00am"
-          image : "images/about/lunch.jpg"
-          content : "
-          
-          ### Launch Break
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
-
-        # schedule loop item
-        - time : "9.00am"
-          image : "images/about/wordpress.png"
-          content : "
-          
-          ### Introduction of material Design
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
-          
-        # schedule loop item
-        - time : "2.00pm"
-          image : "images/about/creativity.jpg"
-          content : "
-          
-          ### Cultures of Creativity
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
     ################# tab itam loop ################
     - title : "Jueves"
       date_time : "23 de abril"
-      schedule_items:
-        # schedule loop item
-        - time : "12:00-12:50"
-          content : "
-          
-          ### Introduction of material Design
-
-          ###### By Risabh moinul
-
-          "
-          
-        # schedule loop item
-        - time : "9.00am"
-          image : "images/about/big-data.png"
-          content : "
-          
-          ### Marketing Matters in design area
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
-          
-        # schedule loop item
-        - time : "9.00am"
-          image : "images/about/lunch.jpg"
-          content : "
-          
-          ### Launch Break
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
-          
-        # schedule loop item
-        - time : "2.00pm"
-          image : "images/about/creativity.jpg"
-          content : "
-          
-          ### Cultures of Creativity
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
+      tracks: "User & Customer eXperience"
           
     ################# tab itam loop ################
     - title : "Viernes"
       date_time : "24 de abril"
-      schedule_items:
-        - time : "12:00-12:50"
-          title : "Introduction of material Design"
-          speaker: "Risabh moinul"
-          link : "/sgvirtual/sessions/hola"
-          
-        # schedule loop item
-        - time : "9.00am"
-          image : "images/about/big-data.png"
-          content : "
-          
-          ### Marketing Matters in design area
+      tracks: "Tendencias & Carrera"
 
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
-          
-        # schedule loop item
-        - time : "9.00am"
-          image : "images/about/lunch.jpg"
-          content : "
-          
-          ### Launch Break
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
-          
-        # schedule loop item
-        - time : "2.00pm"
-          image : "images/about/creativity.jpg"
-          content : "
-          
-          ### Cultures of Creativity
-
-          ###### By Risabh moinul
-
-          Founder of themefisher
-          "
           
 
