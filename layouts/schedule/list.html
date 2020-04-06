@@ -44,10 +44,10 @@
             <li class="d-md-flex align-items-center justify-content-between bg-light p-4 mb-3">
               {{ with .Params.time_start | time  }}
                 <h4 class="time text-color">{{ .Format "15:04" }}</h4>
-                {{ end }}
+              {{ end }}
                 <div class="content">                
                 <h3>
-                <a href="{{ .Params.Permalink }}">{{ .Params.title }}</a>
+                <a href="{{ .Params.url }}">{{ .Params.title }}</a>
                 </h3>
                 {{ if .Params.speakers }}<h6>{{ i18n "by" }} {{ range .Params.speakers }} {{ . }} {{ end }} </h6>{{ end }}
               </div>
