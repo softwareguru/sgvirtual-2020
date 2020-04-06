@@ -7,11 +7,11 @@ banner:
   button1:
     enable : true
     label : "Consulta la agenda"
-    link : "schedule"
+    link : "schedule/"
   button2:
     enable : true
     label : "Regístrate"
-    link : "register"
+    link : "register/"
 
 
 ########################## timer #################################
