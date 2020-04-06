@@ -32,9 +32,9 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Título", name: "title", widget: "string"}
-      - {label: "Speaker", name: "speaker", widget: "string"}
+      - {label: "Speaker(s)", name: "speaker", widget: "relation", collection: "authors", searchFields: ["title"], valueField: "title" }
       - {label: "Track", name: "track", widget: "select", "options": ["Agile & Cultura", "Arquitectura & DevOps", "Data", "Tendencias & Carrera", "Testing", "UX / CX"]}
       - {label: "Día", name: "day_num", widget: "number"}
-      - {label: "Hora inicio", name: "time_start", widget: "datetime"}
+      - {label: "Hora inicio", name: "time_start", widget: "datetime" }
       - {label: "Hora fin", name: "time_end", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
