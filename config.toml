@@ -169,3 +169,7 @@ link = "https://devrel.sg.com.mx"
     weight = 4
 
 
+[taxonomies]
+  speaker = "speakers"
+  category = "categories"
+  track = "tracks"

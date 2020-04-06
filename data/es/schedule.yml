@@ -10,14 +10,13 @@ schedule:
       schedule_items:
 
         - time : "12:00-12:50"
-          title : "Por definir"
-          speaker: ""
-          country : ""
-          lang: ""
+          title : "Así publicamos las apps de Spotify sin stress"
+          speaker: "Erick Camacho"
+          country : "se"
 
           
         - time : "13:00-13:50"
-          title : "Por definir"
+          title : ""
           speaker: ""
           country : ""
           lang: ""

@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+<section class="session-single section">
+  <div class="container">
+      <h2>{{ .Title }}</h2>
+      {{ if .Params.speakers }}
+        <div class="speaker-name">
+        Conferencista(s):
+        {{ range .Params.speakers }}
+          {{ with $.Site.GetPage "taxonomyTerm" (printf "speakers/%s" (urlize .)) }}
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+          {{ end }}
+        {{ end }}
+      </div>
+      {{ end }}
+      {{ if .Params.tracks }}
+        <div class="speaker-name">
+        Track:
+        {{ range .Params.tracks }}
+          {{ with $.Site.GetPage "taxonomyTerm" (printf "tracks/%s" (urlize .)) }}
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+          {{ end }}
+        {{ end }}
+      </div>
+      {{ end }}
+    <div class="content mt-2">{{ .Content }}</div>
+  </div>
+</section>
+
+
+{{ end }}
