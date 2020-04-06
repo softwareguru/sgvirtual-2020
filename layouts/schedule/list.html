@@ -40,14 +40,14 @@
         {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
         <div class="tab-pane fade {{ if eq $index 0 }} show active {{ end }} " id="scheduleTab{{$.Scratch.Get `counter`}}" role="tabpanel">
           <ul class="mt-4 time-table pl-0 list-unstyled">
-            {{ range where (where $.Site.RegularPages "Section" "sessions") ".Params.day_num" ($.Scratch.Get `counter`) }}
+            {{ range where (where $.Site.Pages "Section" "sessions") ".Params.day_num" ($.Scratch.Get `counter`) }}
             <li class="d-md-flex align-items-center justify-content-between bg-light p-4 mb-3">
               {{ with .Params.time_start | time  }}
                 <h4 class="time text-color">{{ .Format "15:04" }}</h4>
               {{ end }}
                 <div class="content">                
                 <h3>
-                <a href="{{ .Params.url }}">{{ .Params.title }}</a>
+                <a href="{{ .Permalink }}">{{ .Params.title }}</a>
                 </h3>
                 {{ if .Params.speakers }}<h6>{{ i18n "by" }} {{ range .Params.speakers }} {{ . }} {{ end }} </h6>{{ end }}
               </div>
