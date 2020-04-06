@@ -1,0 +1,13 @@
+---
+title: Cypress en un mundo lleno de Selenium
+speakers:
+  - Gilberto Sánchez Mares
+tracks:
+  - Testing
+day_num: 1
+time_start: 2020-04-21T22:00:00.000Z
+time_end: 2020-04-21T22:50:00.000Z
+---
+Cypress es un nuevo jugador en las herramientas de código abierto para pruebas automatizadas de software.\
+\
+En esta sesión haremos una breve demostración de cómo usar Cypress, y también veremos cómo se compara contra otra herramienta open source para testing muy popular, que es Selenium.
