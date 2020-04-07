@@ -42,11 +42,11 @@
           <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
           {{ $pageLang := .Page.Lang}}
           {{ if eq $pageLang "es" }}
-            <option id="es" value="/sgvirtual" selected>Español</option>
-            <option id="en" value="/sgvirtual/en">English</option>
+            <option id="es" value="/sgvirtual/" selected>Español</option>
+            <option id="en" value="/sgvirtual/en/">English</option>
           {{ else }}
-            <option id="en" value="/sgvirtual/en" selected>English</option>
-            <option id="es" value="/sgvirtual">Español</option>
+            <option id="en" value="/sgvirtual/en/" selected>English</option>
+            <option id="es" value="/sgvirtual/">Español</option>
           {{ end }}
           </select>
                 
