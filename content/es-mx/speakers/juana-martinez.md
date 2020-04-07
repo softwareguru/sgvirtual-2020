@@ -1,5 +1,5 @@
 ---
-title: "Juana Martinez"
+title: "Juana Martínez"
 date: 2020-04-04T06:44:22-05:00
 image : "/images/speakers/juana-martinez.jpg"
 designation : "CTO @ Zourcing | CoFundadora @ Women in Data Science, Power and Engineering "

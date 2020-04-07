@@ -1,7 +1,9 @@
 ---
 title: Acciones de comunidades tech en tiempos del Covid19
 speakers:
-  - Juana Martinez
+  - Juana Martínez
+  - Adriana Vallejo
+  - Eduardo Ramírez
 tracks:
   - Data
 day_num: 3
