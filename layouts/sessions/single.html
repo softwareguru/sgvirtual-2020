@@ -6,7 +6,7 @@
   <div class="container">
       <h2>{{ .Title }}</h2>
       {{ if .Params.speakers }}
-        <div class="speaker-name">
+        <div>
         Conferencista(s):
         {{ range .Params.speakers }}
           {{ with $.Site.GetPage "taxonomyTerm" (printf "speakers/%s" (urlize .)) }}
@@ -16,15 +16,26 @@
       </div>
       {{ end }}
       {{ if .Params.tracks }}
-        <div class="speaker-name">
+        <div>
         Track:
         {{ range .Params.tracks }}
           {{ with $.Site.GetPage "taxonomyTerm" (printf "tracks/%s" (urlize .)) }}
           <a href="{{ .Permalink }}">{{ .Title }}</a>
           {{ end }}
         {{ end }}
-      </div>
+        </div>
       {{ end }}
+      <div>
+      {{ with .Params.time_start | time  }}        
+        {{ $daysarr := (slice "Lunes 20 de abril" "Martes 21 de abril" "Miércoles 22 de abril" "Jueves 23 de abril" "Viernes 24 de abril")  }}
+        {{ $day := sub (.Day | int) 20 }}
+        Horario: {{ index $daysarr $day }}. {{ .Format "15:04" }}
+      {{ end }}
+      {{ with .Params.time_end | time  }}
+      - {{ .Format "15:04" }} (GMT-5).
+      {{ end }}
+      {{ partial "addcalendar.html" . }}
+      </div>
     <div class="content mt-2">{{ .Content }}</div>
   </div>
 </section>

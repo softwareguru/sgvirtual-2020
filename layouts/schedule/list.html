@@ -7,7 +7,7 @@
 <section class="section-schedule section">
   <div class="container">
     <div class="row section-heading">
-      <div class="col-lg-9">
+      <div class="col-9">
         <div class="heading">
           <span class="stroke-text">{{ .title_outline }}</span>
           <div class="pl-90">
@@ -43,7 +43,8 @@
           <ul class="mt-4 time-table pl-0 list-unstyled">
             {{ range sort (where (where $.Site.Pages "Section" "sessions") ".Params.day_num" ($.Scratch.Get `counter`)) ".Params.time_start" }}
             <li class="d-md-flex align-items-center justify-content-between bg-light p-4 mb-3">
-                <h4 class="time text-color">
+                <div class="time">
+                <h4 class="text-color">
                 {{ with .Params.time_start | time  }}
                   {{ $hour := .Hour | int }}
                   {{ sub $hour 5 }}:{{ .Format "04" }}
@@ -53,7 +54,9 @@
                   {{ $hour := .Hour | int }}
                   {{ sub $hour 5 }}:{{ .Format "04" }}
                 {{ end }}
-               </h4>
+                 </h4>
+                 {{ partial "addcalendar.html" . }}
+               </div>
                 <div class="content">                
                 <h3>
                 <a href="{{ .Permalink }}">{{ .Params.title }}</a>

@@ -1,8 +1,7 @@
 schedule:
   enable : true
   title_outline : "Agenda"
-  title : "5 días llenos de conocimiento"
-  content : "Pronto publicaremos las sesiones confirmadas."
+  title : "El horario de referencia es <br>Ciudad de México (GMT-5)"
   schedule_tab:
     ################# tab itam loop ################
     - title : "Lunes"
