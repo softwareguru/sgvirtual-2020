@@ -3,7 +3,7 @@ title: >-
   El verdadero significado de Research Ops: ¿Qué es y cómo puedo llevarlo a la
   práctica?
 speakers:
-  - Victor Gonzalez
+  - Víctor Gonzalez
 tracks:
   - UX / CX
 day_num: 4

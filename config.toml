@@ -4,11 +4,11 @@ baseURL = "https://sg.com.mx/sgvirtual"
 title = "SG Virtual Conference"
 enableRobotsTXT = true
 DefaultContentLanguage = "es"
-
+RemovePathAccents = true
 
 theme = "vixcon-hugo"
 # post pagination
-paginate = "4"
+paginate = "8"
 # post excerpt
 summaryLength = "10"
 # disqus short name
@@ -172,3 +172,5 @@ link = "https://devrel.sg.com.mx"
 [taxonomies]
   category = "categories"
   track = "tracks"
+
+
