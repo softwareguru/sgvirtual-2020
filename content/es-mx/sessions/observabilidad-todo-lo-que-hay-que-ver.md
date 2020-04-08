@@ -1,5 +1,5 @@
 ---
-title: 'Observabilidad: Todo lo que hay que ver.'
+title: 'Observabilidad: Todo lo que hay que ver'
 speakers:
   - Isaac Ruíz Guerra
 tracks:

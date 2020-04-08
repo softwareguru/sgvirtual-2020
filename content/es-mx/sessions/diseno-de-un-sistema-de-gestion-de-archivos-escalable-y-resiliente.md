@@ -1,5 +1,5 @@
 ---
-title: Diseño de un sistema de gestión de archivos escalable y resiliente.
+title: Diseño de un sistema de gestión de archivos escalable y resiliente
 speakers:
   - Daniel Valencia Backhoff
 tracks:

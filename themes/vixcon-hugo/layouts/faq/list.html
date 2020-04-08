@@ -6,7 +6,7 @@
 <section class="section faq">
   <div class="container">
     <div class="row justify-content-center mb-5">
-      <div class="col-lg-8">
+      <div class="col-10">
         <div class="heading">
           <span class="stroke-text">{{ .title_outline }}</span>
           <h3 class="mb-4 h2 mt-2">{{ .title | markdownify }}</h3>
@@ -16,7 +16,7 @@
     </div>
 
     <div class="row justify-content-center">
-      <div class="col-lg-8">
+      <div class="col-10">
         {{ $.Scratch.Set "counter" 0 }}
         {{ range .faq_item }}
         {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}

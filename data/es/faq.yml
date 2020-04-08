@@ -5,7 +5,7 @@ faq:
   content : ""
   faq_item:
     - title : "¿Cómo me registro?"
-      content : "Por favor llena la forma en <a href='/sgvirtual/register'>esta página</a>"
+      content : "Por favor llena la forma en <a href='/sgvirtual/register/'>esta página</a>. Al hacerlo te llegará un correo electrónico con el asunto \"Thanks for registering for SG Virtual Conference\". Si recibes ese correo, podrás ingresar sin problema el día del evento."
       
     - title : "¿Qué software necesito para conectarme?"
       content : "Solo necesitas una computadora con un navegador web actualizado, de preferencia Google Chrome o Mozilla Firefox."
