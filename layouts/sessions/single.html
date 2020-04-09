@@ -29,10 +29,12 @@
       {{ with .Params.time_start | time  }}        
         {{ $daysarr := (slice "Lunes 20 de abril" "Martes 21 de abril" "Miércoles 22 de abril" "Jueves 23 de abril" "Viernes 24 de abril")  }}
         {{ $day := sub (.Day | int) 20 }}
-        Horario: {{ index $daysarr $day }}. {{ .Format "15:04" }}
+        {{ $hour := sub (.Hour | int) 5 }}
+        Horario: {{ index $daysarr $day }}. {{ $hour }}:{{ .Format "04" }}
       {{ end }}
       {{ with .Params.time_end | time  }}
-      - {{ .Format "15:04" }} (GMT-5).
+        {{ $hour := sub (.Hour | int) 5 }}
+      - {{ $hour }}:{{ .Format "04" }} (GMT-5).
       {{ end }}
       {{ partial "addcalendar.html" . }}
       </div>
