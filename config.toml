@@ -37,7 +37,8 @@ link = "/sgvirtual/plugins/themefisher-font/themefisher-font.min.css"
 link = "/sgvirtual/plugins/jquery/jquery.js"
 [[params.plugins.js]]
 link = "/sgvirtual/plugins/bootstrap/js/bootstrap.min.js"
-
+[[params.plugins.js]]
+link="https://kit.fontawesome.com/4a6d2efc2e.js"
 ############################## navigation ###############################
 
 
@@ -76,6 +77,10 @@ link = "register/"
 
 
 ############################# social icon ############################
+[[params.social]]
+icon = "fab fa-slack"
+link = "http://sgvirtual-slack.herokuapp.com"
+
 [[params.social]]
 icon = "tf-ion-social-facebook"
 link = "https://facebook.com/softwareguru"

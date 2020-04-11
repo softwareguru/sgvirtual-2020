@@ -1,6 +1,24 @@
 @import 'media-query.scss';
 @import "variables.scss";
 
+.btn-slack {
+	background: $primary-color;
+	color: $white;
+	border-color: $primary-color;
+	padding: 16px 20px;
+  
+	&:hover {
+	  background: $black;
+	  border-color: $black;
+	  color: $white;
+	}
+  }
+
+#slackModal {
+	width: unset;
+	left: initial;
+	right: 0;
+}
 
 .session-single {
 	font-size: 16px;

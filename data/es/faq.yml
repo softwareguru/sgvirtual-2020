@@ -9,7 +9,10 @@ faq:
       
     - title : "¿Qué software necesito para conectarme?"
       content : "Solo necesitas una computadora con un navegador web actualizado, de preferencia Google Chrome o Mozilla Firefox."
-      
+
+    - title : "¿Cómo puedo solicitar soporte?"
+      content : "Por favor envia un mensaje en el canal de #support en el Slack de SG Virtual. Para solicitar una invitación al slack por favor visita [https://sgvirtual-slack.herokuapp.com](https://sgvirtual-slack.herokuapp.com)"
+
     - title : "¿Darán constancias de participación?"
       content : Sí. A las personas que participan en un mínimo de 5 sesiones le haremos llegar su constancia de participación."
             
