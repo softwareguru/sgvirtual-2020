@@ -2,6 +2,7 @@
 title: Introduction to Apache Airflow
 speakers:
   - Jarek Potiuk
+  - Tomasz Urbaszek
 tracks:
   - Data
 day_num: 3
