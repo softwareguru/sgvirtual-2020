@@ -1,5 +1,5 @@
 ---
-title: Business analyst role as agile villain in legacy projects
+title: "Lightning talk: Business analyst role as agile villain in legacy projects"
 speakers:
   - José Emilio Contreras Llano
 tracks:
