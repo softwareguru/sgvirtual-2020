@@ -1,5 +1,5 @@
 ---
-title: Ergonomía y UX en el retail
+title: "Lightning talk: Ergonomía y UX en el retail"
 speakers:
   - Juliana Avila
 tracks:

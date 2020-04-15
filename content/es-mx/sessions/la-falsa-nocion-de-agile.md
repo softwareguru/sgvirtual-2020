@@ -1,5 +1,5 @@
 ---
-title: La falsa noción de Agile
+title: "Lightning talk: La falsa noción de Agile"
 speakers:
   - Kevin Arvizu
 tracks:

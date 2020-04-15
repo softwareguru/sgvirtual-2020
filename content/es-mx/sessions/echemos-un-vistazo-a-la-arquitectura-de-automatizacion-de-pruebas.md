@@ -1,5 +1,5 @@
 ---
-title: Echemos un vistazo a la arquitectura de automatización de pruebas
+title: "Lightning talk: Echemos un vistazo a la arquitectura de automatización de pruebas"
 speakers:
   - Mariana Alzate
 tracks:

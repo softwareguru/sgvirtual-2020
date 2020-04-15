@@ -1,5 +1,5 @@
 ---
-title: 'JamStack, el futuro de los sitios Web'
+title: "Lightning talk: JamStack, el futuro de los sitios Web"
 speakers:
   - David Sol
 tracks:

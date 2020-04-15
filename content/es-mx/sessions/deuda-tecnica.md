@@ -1,5 +1,5 @@
 ---
-title: Deuda técnica
+title: "Lightning talk: Deuda técnica"
 speakers:
   - Sagrario Meneses
 tracks:

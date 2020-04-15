@@ -1,5 +1,5 @@
 ---
-title: La vida después de la escuela
+title: "Lightning talk: La vida después de la escuela"
 speakers:
   - Carlos Isaias Ruiz
 tracks:

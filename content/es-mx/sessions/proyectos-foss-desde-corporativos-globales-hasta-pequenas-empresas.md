@@ -1,5 +1,5 @@
 ---
-title: "Proyectos FOSS: desde corporativos globales hasta pequeñas empresas"
+title: "Lightning talk: Contribuye a FOSS para potenciar tu carrera profesional"
 speakers:
   - Manuel Haro
 tracks:
