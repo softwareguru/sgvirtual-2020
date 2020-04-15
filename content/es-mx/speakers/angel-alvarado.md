@@ -7,4 +7,4 @@ country: "us"
 linkedin: "https://www.linkedin.com/in/angel-alvarado-robledo/"
 ---
 
-I am originally from México City. I currently work as a senior engineer at One Degree, a non-profit in San Francisco which provides a platform for low income families and individuals to easily access social services. I have a great passion for data engineering and bring these skills to my current job. On the side, I have created a data engineering community where we spread the word about data engineering in Latin America.
+Soy originario de Ciudad de México y soy un apasionado de la ingeniería de datos. Actualmente radico en San Francisco. Me desempeño como senior engineer en One Degree, una organización sin fines de lucro que provee una plataforma para que familias de bajo ingreso puedan acceder a servicios sociales. También soy cofundador de una comunidad con el propósito de expandir el conocimiento de la ingeniería de datos en Latinoamérica.

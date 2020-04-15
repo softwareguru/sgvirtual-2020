@@ -2,24 +2,24 @@
 faq:
   title_outline : "FAQ"
   title : "Preguntas frecuentes"
-  content : ""
+  content: ""
+
   faq_item:
     - title : "¿Cómo me registro?"
-      content : "Por favor llena la forma en <a href='/sgvirtual/register/'>esta página</a>. Al hacerlo te llegará un correo electrónico con el asunto \“Thanks for registering for SG Virtual Conference\”. Si recibes este correo, podrás ingresar sin problema el día del evento."
+      content : "Por favor llena la forma en <a href='/sgvirtual/register/'>esta página</a>. Al hacerlo te llegará un correo electrónico con el asunto \"Thanks for registering for SG Virtual Conference\". Si recibes este correo, podrás ingresar sin problema el día del evento."
       
     - title : "¿Qué software necesito para conectarme?"
       content : "Solo necesitas una computadora con un navegador web actualizado, de preferencia Google Chrome o Mozilla Firefox."
 
     - title : "¿Cómo puedo contactar con otros participantes y ponentes?"
-      content : "Para manejar esta comunicación estaremos utilizando slack. Para solicitar una invitación al slack por favor visita [https://sgvirtual-slack.sg.com.mx](https://sgvirtual-slack.sg.com.mx)"
-       
-      content :  "Los canales que estaremos manejando son:"
+      content : | 
+        Para manejar esta comunicación estaremos utilizando slack. Para solicitar una invitación al slack por favor visita [https://sgvirtual-slack.sg.com.mx](https://sgvirtual-slack.sg.com.mx)
 
-      content : "En #general, para conversaciones generales (saludos desde X) y cosas que no estén atadas a una sesión o track."
-      content : "En #live es donde se estará comentando sobre la sesión en curso."
-      
-      content : "Adicionalmente, tendremos canales por cada track (agile, architecture_devops, career, data_science, tech_trends, testing, UX, y remote_work). La intención es que aquí se mantengan discusiones sobre temas relacionados con los tracks, y poder contactar con los ponentes una vez terminada su conferencia."
+        Los canales que estaremos manejando son:
+          * En #general, para conversaciones generales (saludos desde X) y cosas que no estén atadas a una sesión o track.
+          * En #live es donde se estará comentando sobre la sesión en curso.
 
+        Adicionalmente, tendremos canales por cada track (agile, architecture_devops, career, data_science, tech_trends, testing, UX, y remote_work). La intención es que aquí se mantengan discusiones sobre temas relacionados con los tracks, y poder contactar con los ponentes una vez terminada su conferencia.
 
     - title : "¿Cómo puedo solicitar soporte?"
       content : "Por favor envía un mensaje en el canal de #support en el Slack de SG Virtual. Para solicitar una invitación al slack por favor visita [https://sgvirtual-slack.herokuapp.com](https://sgvirtual-slack.herokuapp.com)"
@@ -31,13 +31,13 @@ faq:
       content : "Ingresa a la página <a href=''>Kit virtual</a> y aplica para obtener los diferentes beneficios y participar en las rifas de diversos regalos."
 
     - title : "¿Las sesiones permanecerán grabadas?"
-      content : "Si, todas las sesiones se compartirán en el sitio web de SG [www.sg.com.mx](www.sg.com.mx)"
+      content : "Si, todas las sesiones se compartirán en el [sitio web de SG](https://sg.com.mx)"
 
     - title : "¿Cómo puedo armar mi agenda de sesiones?"
       content : "Para cada sesión en la agenda general o al ingresar al detalle de cada sesión, te aparecerá el link Agenda, este te agendará la sesión en tu calendario personal."
 
     - title : "Código de conducta"
-      content : "SG Virtual es una conferencia amigable en la que todos deben sentirse bienvenidos, seguros y cómodos. Consulta aquí el <a href="https://sg.com.mx/sgvirtual/coc/">Código de conducta.</a>"
+      content : "SG Virtual es una conferencia amigable en la que todos deben sentirse bienvenidos, seguros y cómodos. Consulta el [Código de conducta](https://sg.com.mx/sgvirtual/coc/).</a>"
 
 
 

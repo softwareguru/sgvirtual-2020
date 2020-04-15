@@ -1,7 +1,6 @@
 ---
 title: >-
-  Building a powerful data and BI platform in a resource-constrained
-  environment  (Español)
+  Cómo construir una plataforma poderosa de datos en un ambiente con recursos restringidos
 speakers:
   - Angel Alvarado
 tracks:
@@ -10,8 +9,5 @@ day_num: 3
 time_start: 2020-04-22T22:00:00.000Z
 time_end: 2020-04-22T22:50:00.000Z
 ---
-<!--StartFragment-->
 
-Having an in-house platform can be a powerful way to monitor your data in real time and understand your organization’s impact. Focus on what’s important for the organization without vendor-locking your organization. I'll teach you how to use several different tools to set up your own data platform.
-
-<!--EndFragment-->
+Tener una plataforma interna para analítica de datos brinda una forma poderosa de monitorear tus datos en tiempo real y entender el impacto que tiene tu organización. En esta sesión te mostraré cómo utilizar distintas herramientas para construir tu propia plataforma de datos con bajo costo y sin vendor lock-in.
