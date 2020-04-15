@@ -1,5 +1,5 @@
 ---
-title: Propuesta de blockchain para KYC / AML (detección de lavado de dinero)
+title: "Lightning talk: Blockchain para KYC / AML (detección de lavado de dinero)"
 speakers:
   - Jose Angel Arias
 tracks:
