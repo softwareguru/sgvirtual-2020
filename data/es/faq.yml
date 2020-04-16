@@ -5,9 +5,28 @@ faq:
   content: ""
 
   faq_item:
-    - title : "¿Cómo me registro?"
-      content : "Por favor llena la forma en <a href='/sgvirtual/register/'>esta página</a>. Al hacerlo te llegará un correo electrónico con el asunto \"Thanks for registering for SG Virtual Conference\". Si recibes este correo, podrás ingresar sin problema el día del evento."
-      
+    - title : "¿Cómo me registro al evento?"
+      content : | 
+        Por favor llena la forma en <a href='/sgvirtual/register/'>esta página</a>. Al hacerlo te llegará un correo electrónico con el asunto 
+        "Thanks for registering for SG Virtual Conference". Si recibes este correo, podrás ingresar sin problema el día del evento.
+
+        **Solo es necesario llenar la forma de registro una sola vez para todo el evento (no la llenes para cada sesión).**
+
+    - title : "¿Cómo me conecto a las sesiones?"
+      content : | 
+        Cuando el evento esté en curso, en este sitio web verás un enlace titulado "Ver en vivo", que te llevará a la página donde
+        podrás ver las conferencias. 
+        
+        Para hacer más rápido tu ingreso, <a href='/sgvirtual/register/'>regístrate</a> con anticipación. 
+        De no ser así, tendrás que hacerlo en el momento cuando intentes acceder a las sesiones en vivo.
+        
+    - title : "¿Cómo reservo mi lugar para sesiones específicas?"
+      content : | 
+        No es necesario reservar tu lugar para sesiones específicas. Simplemente regístrate al evento y con eso ya tendrás acceso a cualquier sesión.
+        
+        Para tu conveniencia, puedes facilmente agregar las sesiones que te interesan a tu calendario en Google para que no se te olviden. 
+        Para ello, simplemente ingresa al detalle de cada sesión, y sigue el enlace que dice "Agendar".
+
     - title : "¿Qué software necesito para conectarme?"
       content : "Solo necesitas una computadora con un navegador web actualizado, de preferencia Google Chrome o Mozilla Firefox."
 
@@ -22,16 +41,13 @@ faq:
         Adicionalmente, tendremos canales por cada track (agile, architecture_devops, career, data_science, tech_trends, testing, UX, y remote_work). La intención es que aquí se mantengan discusiones sobre temas relacionados con los tracks, y poder contactar con los ponentes una vez terminada su conferencia.
 
     - title : "¿Cómo puedo solicitar soporte?"
-      content : "Por favor envía un mensaje en el canal de #support en el Slack de SG Virtual. Para solicitar una invitación al slack por favor visita [https://sgvirtual-slack.herokuapp.com](https://sgvirtual-slack.herokuapp.com)"
+      content : "Por favor envía un mensaje en el canal de #support en el Slack de SG Virtual."
 
     - title : "¿Darán constancias de participación?"
       content : Sí. A las personas que participan en un mínimo de 5 sesiones le haremos llegar su constancia de participación."
             
     - title : "¿Las sesiones permanecerán grabadas?"
       content : "Si, todas las sesiones se compartirán en el [sitio web de SG](https://sg.com.mx)"
-
-    - title : "¿Cómo puedo armar mi agenda de sesiones?"
-      content : "Para cada sesión en la agenda general o al ingresar al detalle de cada sesión, te aparecerá el link Agenda, este te agendará la sesión en tu calendario personal."
 
     - title : "Código de conducta"
       content : "SG Virtual es una conferencia amigable en la que todos deben sentirse bienvenidos, seguros y cómodos. Consulta el [Código de conducta](https://sg.com.mx/sgvirtual/coc/).</a>"

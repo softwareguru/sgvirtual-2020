@@ -104,9 +104,6 @@
 
 }
 
-.section-coc {
-	background-color: #f6f5f3;
-}
 
 .section-schedule {
 	background-color: #dee7e7;
@@ -114,6 +111,15 @@
 
 .section-speaker {
 	background-color: #f6f5eb;
+}
+
+section.coc, section.faq {
+	background-color: #f6f5f3;
+	font-size: 1.1em;
+	a {
+		color: $secondary-color;
+		text-decoration: underline;
+	}
 }
 
 section.sponsors {
