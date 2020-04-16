@@ -6,13 +6,21 @@
 	color: $white;
 	border-color: $primary-color;
 	padding: 16px 20px;
-  
+
 	&:hover {
-	  background: $black;
-	  border-color: $black;
-	  color: $white;
+		background: $black;
+		border-color: $black;
+		color: $white;
 	}
-  }
+}
+
+.speakers-list span:after {
+	content: " & ";
+}
+
+.speakers-list span:last-child:after {
+	content: "";
+}
 
 #slackModal {
 	width: unset;
@@ -33,13 +41,13 @@
 	position: relative;
 }
 
-.flag-ribbon{
+.flag-ribbon {
 	width: 50px;
 	position: absolute;
 	right: 0px;
 	bottom: 0px;
-  }
-  
+}
+
 
 .logo-b {
 	height: 12vh;
@@ -53,6 +61,7 @@
 	@include tablet {
 		grid-template-columns: repeat(3, 1fr);
 	}
+
 	@include mobile {
 		grid-template-columns: repeat(2, 1fr);
 	}
@@ -70,10 +79,11 @@
 	@include tablet {
 		grid-template-columns: 1fr 1fr;
 	}
+
 	@include mobile {
 		grid-template-columns: 1fr;
 	}
-	
+
 }
 
 .sponsor-strip.partner {
@@ -87,10 +97,11 @@
 	@include tablet {
 		grid-template-columns: 1fr 1fr 1fr;
 	}
+
 	@include mobile {
 		grid-template-columns: 1fr 1fr;
 	}
-	
+
 }
 
 .section-coc {
@@ -102,15 +113,15 @@
 }
 
 .section-speaker {
-    background-color: #f6f5eb;
+	background-color: #f6f5eb;
 }
 
 section.sponsors {
-    background-color: white;
+	background-color: white;
 }
 
 .time-table .content {
-    flex-basis: 75%;
+	flex-basis: 75%;
 }
 
 .stroke-text {
@@ -125,6 +136,7 @@ section.sponsors {
 	@include tablet {
 		font-size: 60px;
 	}
+
 	@include mobile {
 		font-size: 40px;
 	}

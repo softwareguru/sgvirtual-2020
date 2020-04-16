@@ -28,11 +28,11 @@
 
     {{ "<!-- Main Stylesheet -->" | safeHTML }}
     {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
-    <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+    <link rel="stylesheet" href='{{ $styles.Permalink }}?v={{ now.Format "200601021504" }}' media="screen">
   
     {{ $scssCustom := "scss/custom.scss"}}
     {{ $css := resources.Get $scssCustom | toCSS (dict "enableSourceMap" true) }}
-    <link rel="stylesheet" href="{{ $css.Permalink }}" media="screen">
+    <link rel="stylesheet" href='{{ $css.Permalink }}?v={{ now.Format "200601021504" }}' media="screen">
   
     {{ "<!--Favicon-->" | safeHTML }}
     <link rel="shortcut icon" href="{{ `favicon.ico` | absURL }}" type="image/x-icon">

@@ -8,11 +8,13 @@
       {{ if .Params.speakers }}
         <div>
         Conferencista(s):
+        <span class="speakers-list">
         {{ range .Params.speakers }}
           {{ with $.Site.GetPage "taxonomyTerm" (printf "speakers/%s" (urlize .)) }}
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
+          <span><a href="{{ .Permalink }}">{{ .Title }}</a></span>
           {{ end }}
         {{ end }}
+        </span>
       </div>
       {{ end }}
       {{ if .Params.tracks }}
@@ -26,16 +28,13 @@
         </div>
       {{ end }}
       <div>
-      {{ with .Params.time_start | time  }}        
-        {{ $daysarr := (slice "Lunes 20 de abril" "Martes 21 de abril" "Miércoles 22 de abril" "Jueves 23 de abril" "Viernes 24 de abril")  }}
-        {{ $day := sub (.Day | int) 20 }}
-        {{ $hour := sub (.Hour | int) 5 }}
-        Horario: {{ index $daysarr $day }}. {{ $hour }}:{{ .Format "04" }}
-      {{ end }}
-      {{ with .Params.time_end | time  }}
-        {{ $hour := sub (.Hour | int) 5 }}
-      - {{ $hour }}:{{ .Format "04" }} (GMT-5).
-      {{ end }}
+      {{ $time_start := .Params.time_start | time  }}        
+      {{ $time_end := .Params.time_end | time  }}
+      {{ $daysarr := (slice "Lunes 20 de abril" "Martes 21 de abril" "Miércoles 22 de abril" "Jueves 23 de abril" "Viernes 24 de abril")  }}
+      {{ $day := sub ($time_start.Day | int) 20 }}
+      {{ $local_start := $time_start.Unix | time }}
+      {{ $local_end := $time_end.Unix | time }}
+      Horario: {{ index $daysarr $day }}, {{ $local_start.Format "15:04" }}-{{ $local_end.Format "15:04" }} (GMT-5).
       {{ partial "addcalendar.html" . }}
       </div>
     <div class="content mt-2">{{ .Content }}</div>

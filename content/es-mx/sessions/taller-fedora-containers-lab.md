@@ -6,7 +6,7 @@ tracks:
   - Tendencias
 day_num: 5
 time_start: 2020-04-24T23:00:00.000Z
-time_end: 2020-04-24T23:50:00.000Z
+time_end: 2020-04-25T01:30:00.000Z
 ---
 En este taller vamos a mostrar cómo crear y manejar contenedores desde cero.
 
