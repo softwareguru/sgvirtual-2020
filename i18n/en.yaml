@@ -39,3 +39,18 @@
 
 - id: language
   translation: Language
+
+- id: more_sg
+  translation: More from SG
+
+- id: topics
+  translation: Topics
+
+- id: register
+  translation: Register
+
+- id: add_cal
+  translation: Add to my calendar
+
+- id: participa
+  translation: I'm in!

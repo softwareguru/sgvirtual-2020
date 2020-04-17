@@ -38,17 +38,6 @@
           {{ end }}
         </ul>
 
-        <!-- Language List -->
-          <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
-          {{ $pageLang := .Page.Lang}}
-          {{ if eq $pageLang "es" }}
-            <option id="es" value="/sgvirtual/" selected>Español</option>
-            <option id="en" value="/sgvirtual/en/">English</option>
-          {{ else }}
-            <option id="en" value="/sgvirtual/en/" selected>English</option>
-            <option id="es" value="/sgvirtual/">Español</option>
-          {{ end }}
-          </select>
                 
         
         {{ if .Site.Params.navigation_button.enable }}
@@ -56,6 +45,27 @@
         <a href="{{ .Site.Params.navigation_button.link | absURL }}"
           class="btn btn-secondary btn-rounded mt-3 mt-lg-0">{{ .Site.Params.navigation_button.label }}</a>
         {{ end }}
+
+        <!-- Language List -->
+        {{ if .IsTranslated }}
+          <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
+          {{ $siteLanguages := .Site.Languages}}
+          {{ $pageLang := .Page.Lang}}
+          {{ range .Page.AllTranslations }}
+            {{ $translation := .}}
+            {{ range $siteLanguages }}
+              {{ if eq $translation.Lang .Lang }}
+                {{ $selected := false }}
+                {{ if eq $pageLang .Lang}}
+                  <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>{{ .LanguageName }}</option>
+                {{ else }}
+                  <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ .LanguageName }}</option>
+                {{ end }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+          </select>
+        {{ end }}        
 
       </div>
     </div>

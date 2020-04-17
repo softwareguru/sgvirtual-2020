@@ -42,3 +42,15 @@
 
 - id: more_sg
   translation: Otras maravillas de SG
+
+- id: topics
+  translation: Temas
+
+- id: register
+  translation: Regístrate
+
+- id: add_cal
+  translation: Agendar
+
+- id: participa
+  translation: ¡Participa!

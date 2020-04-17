@@ -3,4 +3,4 @@
 {{ $dates := print $dates (.Params.time_end | time.Format "20060102T150400Z") }}
 {{ $calink := print $calink "text=" .Title "&dates=" $dates "&location=https://sg.com.mx/sgvirtual"}}
 {{ $calink := replace $calink " " "+" }}
-<a href="{{ $calink }}" target="_blank">Agendar ></a>
+<a href="{{ $calink }}" target="_blank">{{ i18n "add_cal" }} ></a>

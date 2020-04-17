@@ -1,0 +1,17 @@
+---
+title: Blameless culture during Incidents and RCAs
+speakers:
+  - Radamantis Torres
+tracks:
+  - Agile & Cultura
+day_num: 1
+time_start: 2020-04-20T18:00:19.043Z
+time_end: 2020-04-20T18:50:00.000Z
+---
+Blameless culture in the incident Management process is essential for a healthy process, I'll talk about how to apply and grow your engineering organizations around a blameless culture and how to effectively manage incidents and RCAs  What are the key aspects during an incident?
+
+
+What can be done during RCA? 
+
+
+How to effectively track remediation actions?

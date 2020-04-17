@@ -4,6 +4,8 @@ banner:
   title : "SG Virtual <br>Conference"
   date_time : "April 20-24th, 2020."
   venue: "Location: Anywhere."
+  slogan: "Learning and sharing together"
+  description: "SG Virtual Conference is a free, online conference where software professionals share experience and best practices on how to build high performance software and high performance teams."
   button1:
     enable : true
     label : "Check the program"

@@ -39,7 +39,7 @@
       {{ range $index, $element := $schedule.schedule_tab }}
         {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
         <div class="tab-pane fade {{ if eq $index 0 }} show active {{ end }} " id="scheduleTab{{$.Scratch.Get `counter`}}" role="tabpanel">
-          <h3 class="mt-2">Temas del día: {{ .tracks }}</h3>
+          <h3 class="mt-2">{{ i18n "topics" }}: &nbsp;{{ .tracks }}</h3>
           <ul class="mt-4 time-table pl-0 list-unstyled">
             {{ range sort (where (where $.Site.Pages "Section" "sessions") ".Params.day_num" ($.Scratch.Get `counter`)) ".Params.time_start" }}
             <li class="d-md-flex align-items-center justify-content-between bg-light p-4 mb-3">

@@ -13,7 +13,10 @@ sponsor_group:
                     
       - logo : "images/logos/snowflake.png"
         link : "https://snowflake.com"
-          
+
+      - logo : "images/logos/abiztar.png"
+        link : "https://www.abiztar.com.mx/"
+        
     ############################ sponsor group loop
   - title : "Organismos y comunidades aliadas"
     slug : "partner"

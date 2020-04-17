@@ -4,6 +4,8 @@ banner:
   title : "SG Virtual <br>Conference"
   date_time : "20 al 24 de abril de 2020."
   venue: "Sede: Donde tú te encuentres."
+  slogan: "Unidos compartiendo <br>y aprendiendo"
+  description: "SG Virtual es un congreso en línea gratuito para profesionistas de software donde expertos de todo el mundo comparten conocimiento y mejores prácticas para construir software grandioso."
   button1:
     enable : true
     label : "Consulta la agenda"

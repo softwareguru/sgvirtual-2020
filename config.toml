@@ -10,8 +10,6 @@ theme = "vixcon-hugo"
 # post pagination
 paginate = "8"
 # post excerpt
-summaryLength = "10"
-# disqus short name
 disqusShortname = "vixcon" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # disable language from here
@@ -155,12 +153,12 @@ link = "https://devrel.sg.com.mx"
 
   [[languages.en.menu.main]]
     name = "Schedule"
-    URL = "/schedule/"
+    URL = "/en/schedule/"
     weight = 1
   
   [[languages.en.menu.main]]
     name = "Speakers"
-    URL = "/speakers/"
+    URL = "/en/speakers/"
     weight = 2
 
   [[languages.en.menu.main]]
@@ -172,6 +170,11 @@ link = "https://devrel.sg.com.mx"
     name = "FAQ"
     URL = "/en/faq/"
     weight = 4
+
+  [languages.en.params.navigation_button]
+    enable = true
+    label = "Register"
+    link = "register/"
 
 
 [taxonomies]
