@@ -3,7 +3,7 @@ title: "Gánate un Kindle Reader"
 date: 2020-04-07T10:17:52-05:00
 image : "/images/logos/sg.jpg"
 form_link: "https://forms.gle/cg72yTrU6xBgPi3R6"
-weight: 1
+weight: 6
 
 ---
 

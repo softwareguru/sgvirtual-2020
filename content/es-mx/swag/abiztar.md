@@ -3,7 +3,7 @@ title: "Curso de Dirección de Requerimientos con Caso de Uso"
 date: 2020-04-07T10:17:52-05:00
 image : "/images/logos/abiztar.png"
 form_link: "https://www.abiztar.com.mx/paginas/sg/"
-weight: 2
+weight: 3
 
 ---
 

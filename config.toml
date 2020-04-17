@@ -133,8 +133,8 @@ link = "https://devrel.sg.com.mx"
   weight = 2
 
   [[languages.es.menu.main]]
-  name = "Patrocinadores"
-  URL = "/sponsors/"
+  name = "Promociones"
+  URL = "/swag/"
   weight = 3
 
   [[languages.es.menu.main]]
@@ -162,8 +162,8 @@ link = "https://devrel.sg.com.mx"
     weight = 2
 
   [[languages.en.menu.main]]
-    name = "Sponsors"
-    URL = "/en/sponsors/"
+    name = "Perks"
+    URL = "/en/perks/"
     weight = 3
 
   [[languages.en.menu.main]]
