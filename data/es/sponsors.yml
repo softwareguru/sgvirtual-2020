@@ -8,6 +8,9 @@ sponsor_group:
       - logo : "images/logos/microsoft.png"
         link : "https://microsoft.com"
           
+      - logo : "images/logos/getonboard.png"
+        link : "https://www.getonbrd.com"
+
       - logo : "images/logos/google.png"
         link : "https://google.com"
                     
@@ -18,9 +21,21 @@ sponsor_group:
         link : "https://www.abiztar.com.mx/"
         
     ############################ sponsor group loop
-  - title : "Organismos y comunidades aliadas"
+  - title : "Organismos e instituciones aliadas"
     slug : "partner"
-    sponsor:
+    sponsor:        
+      - logo : "images/logos/upv.png"
+        link : "http://www.upvictoria.edu.mx"
+
+      - logo : "images/logos/uv.jpg"
+        link : "https://www.uv.mx/fei/"
+
+      - logo : "images/logos/itesa.png"
+        link : "https://www.itesa.edu.mx"
+
+      - logo : "images/logos/uaeh.jpg"
+        link : "https://www.uaeh.edu.mx/"
+
       - logo : "images/logos/prosoftware.png"
         link : "http://www.prosoftware.org.mx"
           

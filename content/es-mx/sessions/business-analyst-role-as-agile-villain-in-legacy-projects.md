@@ -6,7 +6,7 @@ tracks:
   - Agile & Cultura
 day_num: 1
 time_start: 2020-04-20T19:15:00.000Z
-time_end: 2020-04-21T19:25:00.000Z
+time_end: 2020-04-20T19:25:00.000Z
 ---
 In all Agile teams-based projects, there is always a role that does not fit well, because of the personality of the person performing the role or even the role itself allows it. This means that the person wearing this role is not following all the agile ceremonies, mixing other tools and techniques from other methodologies, such as Design thinking and waterfall, or just performing tasks that are part of the Project Manager, testers or even development team. 
 

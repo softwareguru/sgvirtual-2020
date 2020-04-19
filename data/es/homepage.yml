@@ -12,8 +12,8 @@ banner:
     link : "schedule/"
   button2:
     enable : true
-    label : "Regístrate"
-    link : "register/"
+    label : "Únete"
+    link : "live/"
 
 
 ########################## timer #################################

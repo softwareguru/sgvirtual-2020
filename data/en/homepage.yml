@@ -12,8 +12,8 @@ banner:
     link : "schedule"
   button2:
     enable : true
-    label : "Register"
-    link : "register"
+    label : "Join"
+    link : "join/"
 
 
 ########################## timer #################################

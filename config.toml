@@ -69,8 +69,8 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Regístrate"
-link = "register/"
+label = "Únete"
+link = "live/"
 
 
 
@@ -133,7 +133,7 @@ link = "https://devrel.sg.com.mx"
   weight = 2
 
   [[languages.es.menu.main]]
-  name = "Promociones"
+  name = "Kit virtual"
   URL = "/swag/"
   weight = 3
 
@@ -173,8 +173,8 @@ link = "https://devrel.sg.com.mx"
 
   [languages.en.params.navigation_button]
     enable = true
-    label = "Register"
-    link = "register/"
+    label = "Join"
+    link = "live/"
 
 
 [taxonomies]

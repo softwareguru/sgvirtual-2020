@@ -8,6 +8,9 @@ sponsor_group:
       - logo : "images/logos/microsoft.png"
         link : "https://microsoft.com"
           
+      - logo : "images/logos/getonboard.png"
+        link : "https://www.getonbrd.com"
+
       - logo : "images/logos/google.png"
         link : "https://google.com"
                     
@@ -16,8 +19,7 @@ sponsor_group:
 
       - logo : "images/logos/abiztar.png"
         link : "https://www.abiztar.com.mx/"
-
-          
+                  
     ############################ sponsor group loop
   - title : "Partners"
     slug : "partner"
