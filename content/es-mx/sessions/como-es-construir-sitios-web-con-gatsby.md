@@ -1,7 +1,7 @@
 ---
-title: Cómo es construir sitios web con Gatsby
+title: Cómo construir sitios web con Gatsby
 speakers:
-  - Uriel Hernandez
+  - Uriel Hernández
 tracks:
   - Tendencias
 day_num: 5

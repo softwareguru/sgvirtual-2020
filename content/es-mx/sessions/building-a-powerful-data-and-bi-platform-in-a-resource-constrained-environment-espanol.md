@@ -2,7 +2,7 @@
 title: >-
   Cómo construir una plataforma poderosa de datos en un ambiente con recursos restringidos
 speakers:
-  - Angel Alvarado
+  - Ángel Alvarado
 tracks:
   - Data
 day_num: 3

@@ -1,6 +1,23 @@
 @import 'media-query.scss';
 @import "variables.scss";
 
+section.register a {
+	color: $secondary-color;
+}
+
+section.swag a {
+	color: $secondary-color;
+    text-decoration: underline;
+}
+
+section.faq img, section.coc img {
+	max-width: 100%;
+}
+
+section.register p, section.swag p {
+	font-size: 1.2em;
+}
+
 .btn-slack {
 	background: $primary-color;
 	color: $white;
@@ -22,10 +39,9 @@
 	content: "";
 }
 
-#slackModal {
-	width: unset;
-	left: initial;
-	right: 0;
+#slackModal .modal-body a {
+	color: $secondary-color;
+	text-decoration: underline;
 }
 
 .session-single {
@@ -51,6 +67,14 @@
 
 .logo-b {
 	height: 12vh;
+}
+
+.info-buttons {
+    margin: 10px;
+	display: grid;
+	grid-template-columns: minmax(150px, 250px) minmax(150px, 250px);
+	grid-gap: 40px;
+	justify-content: center;
 }
 
 .speaker-strip {

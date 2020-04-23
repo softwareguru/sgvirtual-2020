@@ -5,30 +5,33 @@ faq:
   content: ""
 
   faq_item:
-    - title : "¿Cómo me registro al evento?"
-      content : | 
-        Por favor llena la forma en <a href='/sgvirtual/register/'>esta página</a>. Al hacerlo te llegará un correo electrónico con el asunto 
-        "Thanks for registering for SG Virtual Conference". Si recibes este correo, podrás ingresar sin problema el día del evento.
-
-        **Solo es necesario llenar la forma de registro una sola vez para todo el evento (no la llenes para cada sesión).**
 
     - title : "¿Cómo me conecto a las sesiones?"
       content : | 
-        Cuando el evento esté en curso, en este sitio web verás un enlace titulado "Ver en vivo", que te llevará a la página donde
-        podrás ver las conferencias. 
-        
-        Para hacer más rápido tu ingreso, <a href='/sgvirtual/register/'>regístrate</a> con anticipación. 
-        De no ser así, tendrás que hacerlo en el momento cuando intentes acceder a las sesiones en vivo.
+        Estos son los pasos para conectarte a las sesiones de SG Virtual:
+
+        1. Ingresar a https://sg.com.mx/sgvirtual/live/
+        2. Dar click al botón que dice "Ingresar / Join". Saldrá un pop-up con el mensaje "Join event" solicitando tu dirección de email.
+        3. Al introducir tu email, el sistema detectará si ya estás registrada(o) y en caso de ser así te mostrará un botón para recibir un login link por correo. Dale click y recibirás un correo con un enlace para hacer login a SG Virtual en Crowdcast (la plataforma que estamos utilizando para la transmisión).
+        4. Si en el paso 3 el sistema no reconoce tu correo, te mostrará la forma de registro. Llénala y tendrás acceso a la transmisión.
         
     - title : "¿Cómo reservo mi lugar para sesiones específicas?"
       content : | 
-        No es necesario reservar tu lugar para sesiones específicas. Simplemente regístrate al evento y con eso ya tendrás acceso a cualquier sesión.
+        No es necesario reservar tu lugar para sesiones específicas. Simplemente ingresa al evento cuando lo desees. 
         
         Para tu conveniencia, puedes facilmente agregar las sesiones que te interesan a tu calendario en Google para que no se te olviden. 
         Para ello, simplemente ingresa al detalle de cada sesión, y sigue el enlace que dice "Agendar".
 
     - title : "¿Qué software necesito para conectarme?"
       content : "Solo necesitas una computadora con un navegador web actualizado, de preferencia Google Chrome o Mozilla Firefox."
+
+    - title : "¿Dónde puedo ver las grabaciones?"  
+      content: | 
+        Durante la semana del evento las grabaciones estarán disponibles desde la misma página de transmisión. Ingresa y una vez que tengas 
+        una sesión activa podrás dar click en la parte superior izquierda del menú de transmisión y se desplegará una lista de las distintas sesiones (ver imagen).
+        Si seleccionas una sesión anterior podrás ver la grabación.
+        
+        ![Menú con sesiones anteriores](/sgvirtual/images/menu-sesiones-anteriores.jpg "Menu con sesiones anteriores")
 
     - title : "¿Cómo puedo contactar con otros participantes y ponentes?"
       content : | 

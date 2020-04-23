@@ -1,5 +1,5 @@
 ---
-title: "Tenoch Gonzalez"
+title: "Tenoch González"
 date: 2020-04-19T10:41:47-05:00
 image : "/images/speakers/tenoch-gonzalez.jpg"
 designation : "Sr Cloud Solution Architect @ Microsoft"

@@ -1,5 +1,5 @@
 ---
-title: "Uriel Hernandez"
+title: "Uriel Hernández"
 date: 2020-04-06T19:06:19-05:00
 image : "/images/speakers/uriel-hernandez.jpg"
 designation : "Cofundador @ CódigoFacilito"

@@ -1,5 +1,5 @@
 ---
-title: "Carlos Isaias Ruiz"
+title: "Carlos Isaías Ruiz"
 date: 2020-04-06T19:20:16-05:00
 image : "/images/speakers/carlos-isaias-ruiz.jpg"
 designation : "Sr Software Engineer @ Sofia Salud"

@@ -1,5 +1,5 @@
 ---
-title: "Juliana Avila"
+title: "Juliana Ávila"
 date: 2020-04-06T19:03:40-05:00
 image : "/images/speakers/juliana-avila.jpg"
 designation : "UX Researcher"

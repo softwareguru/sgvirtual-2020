@@ -1,5 +1,5 @@
 ---
-title: "Miguel Enriquez"
+title: "Miguel Enríquez"
 date: 2020-04-04T06:54:28-05:00
 image : "/images/speakers/miguel-enriquez.jpg"
 designation : "Senior Consultant @ ThoughtWorks"

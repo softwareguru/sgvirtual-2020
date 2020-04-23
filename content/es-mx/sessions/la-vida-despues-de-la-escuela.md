@@ -1,7 +1,7 @@
 ---
 title: "Lightning talk: La vida después de la escuela"
 speakers:
-  - Carlos Isaias Ruiz
+  - Carlos Isaías Ruiz
 tracks:
   - Carrera
 day_num: 5

@@ -1,5 +1,5 @@
 ---
-title: "Jose Angel Arias"
+title: "José Ángel Arias"
 date: 2020-04-06T19:11:24-05:00
 image : "/images/speakers/jose-angel-arias.jpg"
 designation : "Former Regional Technology Audit Director @ Citi | Former Globa Innovation Director @ Softtek"

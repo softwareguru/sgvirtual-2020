@@ -1,5 +1,5 @@
 ---
-title: "Victor Garcia"
+title: "Víctor García"
 date: 2020-04-15T12:58:31-05:00
 image : "/images/speakers/victor-garcia.jpg"
 designation : ""

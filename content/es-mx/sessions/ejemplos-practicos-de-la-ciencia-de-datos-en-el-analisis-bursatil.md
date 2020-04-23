@@ -1,5 +1,5 @@
 ---
-title: Ejemplos prácticos de la Ciencia de Datos en el análisis bursátil.
+title: Ejemplos prácticos de la Ciencia de Datos en el análisis bursátil
 speakers:
   - Jorge Alberto Nájera Salmerón
 tracks:

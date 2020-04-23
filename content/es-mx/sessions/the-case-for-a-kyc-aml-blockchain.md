@@ -1,7 +1,7 @@
 ---
 title: "Lightning talk: Blockchain para KYC / AML (detección de lavado de dinero)"
 speakers:
-  - Jose Angel Arias
+  - José Ángel Arias
 tracks:
   - Tendencias
 day_num: 5

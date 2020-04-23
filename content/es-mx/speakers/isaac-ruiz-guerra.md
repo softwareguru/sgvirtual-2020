@@ -1,5 +1,5 @@
 ---
-title: "Isaac Ruíz Guerra"
+title: "Isaac Ruiz Guerra"
 date: 2020-04-04T06:36:02-05:00
 image : "/images/speakers/rugi.jpg"
 designation : "Back end developer & cloud enthusiast"

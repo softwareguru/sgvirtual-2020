@@ -1,39 +1,78 @@
 {{ define "main" }}
 <div class="container-fluid">
     <div class="row">
-        <div class="col-12 col-lg-11">
-            <iframe width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0" allowtransparency="true"
-                src="https://www.crowdcast.io/e/sgvirtual?navlinks=false&embed=true"
-                style="border: 1px solid #EEE;border-radius:3px" allowfullscreen="true" webkitallowfullscreen="true"
-                mozallowfullscreen="true" allow="microphone; camera;"></iframe>
-        </div>
-        <div class="col-1">
+        <iframe width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0" allowtransparency="true"
+            src="https://www.crowdcast.io/e/sgvirtual?navlinks=false&embed=true"
+            style="border: 1px solid #EEE;border-radius:3px" allowfullscreen="true" webkitallowfullscreen="true"
+            mozallowfullscreen="true" allow="microphone; camera;"></iframe>
+    </div>
+    <div class="col-12">
+        <div class="info-buttons">
+            <button type="button" class="btn btn-slack btn-rounded" data-toggle="modal" data-target="#scheduleModal">
+                Ver agenda de hoy
+            </button>
             <button type="button" class="btn btn-slack btn-rounded" data-toggle="modal" data-target="#slackModal">
-                Ver Slack
+                Chat via slack
             </button>
         </div>
-
-        <div class="modal fade" id="slackModal" tabindex="-1" role="dialog" aria-labelledby="slackModalLabel"
-            aria-hidden="true">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel">SG Virtual Slack #live</h5>
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                            <span aria-hidden="true">&times;</span>
-                        </button>
-                    </div>
-                    <div class="modal-body">
-                        <iframe width="350" height="500" frameborder="0" marginheight="0" marginwidth="0"
-                            src="https://sgvirtual-client.herokuapp.com/"></iframe>
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
-                    </div>
+    </div>
+    <div class="modal fade" id="slackModal" tabindex="-1" role="dialog" aria-labelledby="slackModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">SG Virtual Slack</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p>Únete a la conversación de SG Virtual en slack.</p>
+                    <p class="text-center"><a href="https://sgvirtual-slack.sg.com.mx" target="_blank">Solicita tu
+                            invitación</a>
+                    </p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
                 </div>
             </div>
         </div>
     </div>
+
+    <div class="modal fade" id="scheduleModal" tabindex="0" role="dialog" aria-labelledby="scheduleModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Agenda de hoy</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    {{ range sort (where (where $.Site.Pages "Section" "sessions") ".Params.day_num" 4) ".Params.time_start" }}
+                    <li>
+                        {{ with .Params.time_start | time  }}
+                        {{ $adjtime := .Unix | time }}
+                        {{ $adjtime.Format "15:04" }}
+                        {{ end }}
+                        -
+                        {{ with .Params.time_end | time  }}
+                        {{ $adjtime := .Unix | time }}
+                        {{ $adjtime.Format "15:04" }}
+                        {{ end }}
+                        <a href="{{ .Permalink }}" target="_blank">{{ .Params.title }}</a>
+                    </li>
+                    {{ end }}
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
 </div>
 
 {{ end }}

@@ -1,7 +1,7 @@
 ---
 title: "Lightning talk: Ergonomía y UX en el retail"
 speakers:
-  - Juliana Avila
+  - Juliana Ávila
 tracks:
   - UX / CX
 day_num: 4

@@ -1,5 +1,5 @@
 ---
-title: "Entrega Continua De Experiencias Grandiosas"
+title: "Entrega continua de experiencias grandiosas"
 speakers:
   - Tenoch González
 tracks:

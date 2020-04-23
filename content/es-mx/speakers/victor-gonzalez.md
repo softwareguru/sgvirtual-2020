@@ -1,5 +1,5 @@
 ---
-title: "Víctor Gonzalez"
+title: "Víctor González"
 date: 2020-04-04T07:37:30-05:00
 image : "/images/speakers/victor-gonzalez.jpg"
 designation : "Director y Fundador @ Sperientia [studio+lab]®"

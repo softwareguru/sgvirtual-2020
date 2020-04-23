@@ -3,7 +3,7 @@ title: >-
   Mecanismos y patrones para acelerar adopción en arquitecturas de
   microservicios
 speakers:
-  - Miguel Enriquez
+  - Miguel Enríquez
 tracks:
   - Arquitectura & DevOps
 day_num: 2

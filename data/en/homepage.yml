@@ -8,12 +8,12 @@ banner:
   description: "SG Virtual Conference is a free, online conference where software professionals share experience and best practices on how to build high performance software and high performance teams."
   button1:
     enable : true
-    label : "Check the program"
-    link : "schedule"
+    label : "Join"
+    link : "live/"
   button2:
     enable : true
-    label : "Join"
-    link : "join/"
+    label : "Donate"
+    link : "covid-19/"
 
 
 ########################## timer #################################

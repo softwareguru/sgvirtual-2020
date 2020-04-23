@@ -1,7 +1,7 @@
 ---
 title: 'Observabilidad: Todo lo que hay que ver'
 speakers:
-  - Isaac Ruíz Guerra
+  - Isaac Ruiz Guerra
 tracks:
   - Arquitectura & DevOps
 day_num: 2
