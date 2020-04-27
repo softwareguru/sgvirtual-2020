@@ -50,7 +50,7 @@
                     </button>
                 </div>
                 <div class="modal-body">
-                    {{ range sort (where (where $.Site.Pages "Section" "sessions") ".Params.day_num" 4) ".Params.time_start" }}
+                    {{ range sort (where (where $.Site.Pages "Section" "sessions") ".Params.day_num" 5) ".Params.time_start" }}
                     <li>
                         {{ with .Params.time_start | time  }}
                         {{ $adjtime := .Unix | time }}

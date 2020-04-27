@@ -142,6 +142,11 @@ link = "https://devrel.sg.com.mx"
   URL = "/faq/"
   weight = 4
 
+  [[languages.es.menu.main]]
+  name = "Equipo"
+  URL = "/team/"
+  weight = 5
+
 
   [languages.en]
     languageName = "English"
