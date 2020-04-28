@@ -11,6 +11,7 @@ tracks:
 day_num: 3
 time_start: 2020-04-22T19:00:00.000Z
 time_end: 2020-04-22T19:50:00.000Z
+video: "https://crowdcast.io/e/sgvirtual/23"
 
 ---
 

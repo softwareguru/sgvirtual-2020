@@ -7,6 +7,8 @@ tracks:
 day_num: 5
 time_start: 2020-04-24T20:00:00.000Z
 time_end: 2020-04-24T20:50:00.000Z
+video: "https://crowdcast.io/e/sgvirtual/44"
+
 ---
 <!--StartFragment-->
 

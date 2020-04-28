@@ -7,6 +7,8 @@ tracks:
 day_num: 5
 time_start: 2020-04-24T19:45:00.000Z
 time_end: 2020-04-24T19:55:00.000Z
+video: "https://crowdcast.io/e/sgvirtual/43"
+
 ---
 Recomendaciones para estudiantes de carreras de tecnología, de manera que maximicen su desarrollo profesional.\
 Algunos puntos que abordaremos:\
