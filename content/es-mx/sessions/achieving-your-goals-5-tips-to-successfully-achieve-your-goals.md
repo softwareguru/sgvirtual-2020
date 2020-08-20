@@ -7,7 +7,8 @@ tracks:
 day_num: 4
 time_start: 2020-04-23T19:15:00.000Z
 time_end: 2020-04-23T19:50:00.000Z
-video: "https://crowdcast.io/e/sgvirtual/32"
+video: "https://youtube.com/embed/Kts-Yx1VAus"
+slides: "http://www.slideshare.net/slideshow/embed_code/key/iMZRErBXz3WpdQ"
 
 ---
 The measure of the executive, Peter F. Drucker reminds us, is the ability to "get the right things done." This involves having clarity on what are the right things as well as avoiding what is unproductive. Intelligence, creativity, and knowledge may all be wasted if not put to work on the things that matter.\

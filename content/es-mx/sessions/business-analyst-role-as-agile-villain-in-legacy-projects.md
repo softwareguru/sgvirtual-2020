@@ -7,7 +7,7 @@ tracks:
 day_num: 1
 time_start: 2020-04-20T19:15:00.000Z
 time_end: 2020-04-20T19:25:00.000Z
-video: "https://crowdcast.io/e/sgvirtual/5"
+video: "https://youtube.com/embed/CfcdNtniE0c"
 slides: "https://www.slideshare.net/slideshow/embed_code/key/wVcEmEiuzmeoe5"
 
 ---

@@ -11,7 +11,7 @@ tracks:
 day_num: 3
 time_start: 2020-04-22T19:00:00.000Z
 time_end: 2020-04-22T19:50:00.000Z
-video: "https://crowdcast.io/e/sgvirtual/23"
+video: "https://youtube.com/embed/vWQGVwHBJaI"
 
 ---
 
@@ -21,8 +21,5 @@ En contraste las emociones aparecen de formas evidentes, repentinas y muchas vec
  
 Una década de experiencia como consultores en ciencias de datos nos ha enseñado que es mucho más sencillo ayudar a un cliente si sabemos de antemano aquello que quiere decidir y luego le proveemos con la información que le ayude a tomar esta decisión.  
  
-La manera en que nuestros clientes deciden siempre es expresado emocionalmente narrando el cúmulo de experiencias que en el pasado lo llevan a tomar tal o cuál decisión en el presente. Es entonces nuestro trabajo lograr que las historias que narran nuestros datos empaten con la manera como nuestro cliente toma decisiones y de tal modo ayudarlo a verificar o corregir sus arraigadas creencias. No lo contrario. 
- 
-En ésta platica les mostraremos tres aplicaciones de lo dicho donde usando datos de fuentes públicas los transformamos en historias que responden a las preguntas que la gente tiene de tal forma que podamos auxiliarle en hacerlo mejor. 
- 
+La manera en que nuestros clientes deciden siempre es expresado emocionalmente narrando el cúmulo de experiencias que en el pasado lo llevan a tomar tal o cuál decisión en el presente. Es entonces nuestro trabajo lograr que las historias que narran nuestros datos empaten con la manera como nuestro cliente toma decisiones y de tal modo ayudarlo a verificar o corregir sus arraigadas creencias. No lo contrario. En ésta platica les mostraremos tres aplicaciones de lo dicho donde usando datos de fuentes públicas los transformamos en historias que responden a las preguntas que la gente tiene de tal forma que podamos auxiliarle en hacerlo mejor. 
  

@@ -7,7 +7,7 @@ tracks:
 day_num: 5
 time_start: 2020-04-24T22:00:00.000Z
 time_end: 2020-04-24T22:50:00.000Z
-video: "https://crowdcast.io/e/sgvirtual/46"
+video: "https://youtube.com/embed/dDsnvKW43Ys"
 slides: "https://slides.com/edencandelas-elmundoverdees/procolos/embed?style=light"
 
 ---

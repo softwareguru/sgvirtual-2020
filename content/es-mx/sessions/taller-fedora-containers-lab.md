@@ -7,7 +7,7 @@ tracks:
 day_num: 5
 time_start: 2020-04-24T23:00:00.000Z
 time_end: 2020-04-25T01:30:00.000Z
-video: "https://crowdcast.io/e/sgvirtual/47"
+video: "https://youtube.com/embed/Pb27CYlkCJA"
 
 ---
 En este taller vamos a mostrar cómo crear y manejar contenedores desde cero.
@@ -19,3 +19,5 @@ Usando ejercicios sencillos, con skopeo, podman y buildah mostraremos cómo crea
 * Mínimo 5G de espacio en disco disponible.
 * Tener instalados los siguientes paquetes: `qemu-kvm virt-manager virt-viewer libguestfs-tools virt-install genisoimage` 
 * Descargar la imagen de [Fedora 31 Cloud Base](https://alt.fedoraproject.org/cloud/) (descargar "Cloud Base Image for Openstack").
+
+La presentación de este taller está disponible en https://darkaxl017.fedorapeople.org/slides/FedoraContainersLab-SGVirtual.pdf

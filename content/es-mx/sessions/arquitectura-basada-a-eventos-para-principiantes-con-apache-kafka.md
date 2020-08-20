@@ -8,6 +8,7 @@ day_num: 3
 time_start: 2020-04-22T21:00:00.000Z
 time_end: 2020-04-22T21:50:00.000Z
 video: "https://crowdcast.io/e/sgvirtual/25"
+slides: "https://www.slideshare.net/slideshow/embed_code/key/qPLCoNZE4Ym1qu"
 
 ---
 <!--StartFragment-->

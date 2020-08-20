@@ -8,7 +8,7 @@ tracks:
 day_num: 3
 time_start: 2020-04-22T20:00:00.000Z
 time_end: 2020-04-22T20:50:00.000Z
-video: "https://crowdcast.io/e/sgvirtual/24"
+video: "https://youtube.com/embed/sLPaM_0M5pY"
 
 ---
 Acompáñanos para ver cómo CEMEX está transformando su negocio con una estratégia de datos y cómo habilitó la iniciativa 'CEMEX Go'. 

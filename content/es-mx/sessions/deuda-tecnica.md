@@ -7,7 +7,7 @@ tracks:
 day_num: 1
 time_start: 2020-04-20T19:00:00.000Z
 time_end: 2020-04-20T19:10:00.000Z
-video: "https://crowdcast.io/e/sgvirtual/4"
+video: "https://youtube.com/embed/fLNjsnEMppY"
 slides: "https://slides.com/smmd/deuda-tecnica/embed?style=light"
 
 ---

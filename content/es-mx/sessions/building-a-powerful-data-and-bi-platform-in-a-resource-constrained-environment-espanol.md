@@ -8,7 +8,8 @@ tracks:
 day_num: 3
 time_start: 2020-04-22T22:00:00.000Z
 time_end: 2020-04-22T22:50:00.000Z
-video: "https://crowdcast.io/e/sgvirtual/26"
+video: "https://youtube.com/embed/JkKxUI4-pN4"
+slides: "https://www.slideshare.net/slideshow/embed_code/key/C9ChIah4NStbGC"
 
 ---
 

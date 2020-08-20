@@ -7,7 +7,7 @@ tracks:
 day_num: 4
 time_start: 2020-04-23T19:00:00.000Z
 time_end: 2020-04-23T19:10:00.000Z
-video: "https://crowdcast.io/e/sgvirtual/31"
+video: "https://youtube.com/embed/QTUTZ22qU_Q"
 
 ---
 <!--StartFragment-->
