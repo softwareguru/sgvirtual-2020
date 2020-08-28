@@ -69,8 +69,8 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Únete"
-link = "live/"
+label = "Registrate"
+link = ""
 
 
 
@@ -124,8 +124,26 @@ link = "https://devrel.sg.com.mx"
     
   [[languages.es.menu.main]]
   name = "Agenda"
-  URL = "/schedule/"
+  identifier = "agenda"
+  URL = ""
   weight = 1
+  hasChildren = true
+  
+
+  [[languages.es.menu.main]]
+  
+  name = "Agenda Abril 2020"
+  parent = "agenda"
+  identifier = "Agenda Abril 2020"
+  URL = "schedule/"
+
+  [[languages.es.menu.main]]
+  
+  name = "Agenda Nov 2020"
+  parent = "agenda"
+  identifier = "agenda Nov 2020"
+  URL = "new-schedule/"
+
   
   [[languages.es.menu.main]]
   name = "Conferencistas"

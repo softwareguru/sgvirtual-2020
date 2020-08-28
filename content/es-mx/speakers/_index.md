@@ -4,6 +4,5 @@ description: "SG Virtual reúne a conferencistas expertos que nos acompañan des
 
 ---
 
-## Mire usted nada más
+## Próximamente se conocerán a los conferencistas
 
-SG Virtual reúne a conferencistas expertos que nos acompañan desde distintas partes del mundo.

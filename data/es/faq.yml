@@ -6,22 +6,19 @@ faq:
 
   faq_item:
 
-    - title : "¿Cómo me conecto a las sesiones?"
+    - title : "¿Cuál será el horario del evento?"
       content : | 
-        Estos son los pasos para conectarte a las sesiones de SG Virtual:
+        Actualmente estamos diseñando la agenda, en próximos días se publicará la agenda y horarios del evento.
 
-        1. Ingresar a https://sg.com.mx/sgvirtual/live/
-        2. Dar click al botón que dice "Ingresar / Join". Saldrá un pop-up con el mensaje "Join event" solicitando tu dirección de email.
-        3. Al introducir tu email, el sistema detectará si ya estás registrada(o) y en caso de ser así te mostrará un botón para recibir un login link por correo. Dale click y recibirás un correo con un enlace para hacer login a SG Virtual en Crowdcast (la plataforma que estamos utilizando para la transmisión).
-        4. Si en el paso 3 el sistema no reconoce tu correo, te mostrará la forma de registro. Llénala y tendrás acceso a la transmisión.
-        
     - title : "¿Cómo reservo mi lugar para sesiones específicas?"
       content : | 
-        No es necesario reservar tu lugar para sesiones específicas. Simplemente ingresa al evento cuando lo desees. 
+        SG Virtual Conference es un evento pagado, pero no te preocupes la tarifa será muy accesible, se contará con varios descuentos y becas a las que estudiantes podrán aplicar. 
         
-        Para tu conveniencia, puedes facilmente agregar las sesiones que te interesan a tu calendario en Google para que no se te olviden. 
-        Para ello, simplemente ingresa al detalle de cada sesión, y sigue el enlace que dice "Agendar".
-
+        1. Previo al evento, aparecerá en el sitio web el botón: LIVE. O podrás ingresar a la página: 
+        2. Dar click al botón que dice “Ingresar / Join”. Saldrá un pop-up con el mensaje “Join event” solicitando tu dirección de email.
+        3. Al introducir tu email, el sistema detectará si ya estás registrada(o) y en caso de ser así te mostrará un botón para recibir un login link por correo. Dale click y recibirás un correo con un enlace para hacer login a Data Days Virtual en Crowdcast (la plataforma que estamos utilizando para la transmisión).
+        4. Si en el paso 3 el sistema no reconoce tu correo, te pedimos nos contactes: eventos@sg.com.mx
+        
     - title : "¿Qué software necesito para conectarme?"
       content : "Solo necesitas una computadora con un navegador web actualizado, de preferencia Google Chrome o Mozilla Firefox."
 
@@ -35,25 +32,33 @@ faq:
 
     - title : "¿Cómo puedo contactar con otros participantes y ponentes?"
       content : | 
-        Para manejar esta comunicación estaremos utilizando slack. Para solicitar una invitación al slack por favor visita [https://sgvirtual-slack.sg.com.mx](https://sgvirtual-slack.sg.com.mx)
+        Para manejar esta comunicación estaremos utilizando slack. Te compartiremos vía mail la liga para ingresar al slack del evento.
 
         Los canales que estaremos manejando son:
-          * En #general, para conversaciones generales (saludos desde X) y cosas que no estén atadas a una sesión o track.
-          * En #live es donde se estará comentando sobre la sesión en curso.
+          * En #general para conversaciones generales (saludos desde X), dinámicas, y temas que no estén atadas a una sesión.
+          * En #session es donde se estará comentando sobre la sesión en curso.
+          * En #support problemas con la herramienta, atención a asistentes y patrocinadores.
 
-        Adicionalmente, tendremos canales por cada track (agile, architecture_devops, career, data_science, tech_trends, testing, UX, y remote_work). La intención es que aquí se mantengan discusiones sobre temas relacionados con los tracks, y poder contactar con los ponentes una vez terminada su conferencia.
+        Además cada patrocinador tendrá un canal en slack, quienes estarán organizando interesantes dinámicas, y muchos estarán buscando talento.
 
     - title : "¿Cómo puedo solicitar soporte?"
       content : "Por favor envía un mensaje en el canal de #support en el Slack de SG Virtual."
 
     - title : "¿Darán constancias de participación?"
-      content : Sí. A las personas que participan en un mínimo de 5 sesiones le haremos llegar su constancia de participación."
+      content : | 
+        Sí. A todos los asistentes registrados al evento, les haremos llegar su constancia de participación.
+
+        Importante: la constancia se genera con el nombre completo con el que te registraste.
+         
             
-    - title : "¿Las sesiones permanecerán grabadas?"
-      content : "Si, todas las sesiones se compartirán en el [sitio web de SG](https://sg.com.mx)"
+    - title : "¿Las grabaciones y slides de las sesiones se compartirán?"
+      content : "Todas las sesiones serán grabadas y se compartirán con los asistentes del evento, así como las presentaciones (slides)."
 
     - title : "Código de conducta"
       content : "SG Virtual es una conferencia amigable en la que todos deben sentirse bienvenidos, seguros y cómodos. Consulta el [Código de conducta](https://sg.com.mx/sgvirtual/coc/).</a>"
+
+    - title : "Contáctanos"
+      content : "Si no hemos logrado resolver tus preguntas, por favor contáctanos:  eventos@sg.com.mx"
 
 
 

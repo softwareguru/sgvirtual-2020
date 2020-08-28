@@ -1,6 +1,6 @@
 schedule:
   enable : true
-  title_outline : "Agenda"
+  title_outline : "Agenda Abril 2020"
   title : "El horario de referencia es <br>Ciudad de México (GMT-5)"
   schedule_tab:
     ################# tab itam loop ################
