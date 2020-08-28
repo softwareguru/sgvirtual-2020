@@ -1,6 +1,10 @@
 @import 'media-query.scss';
 @import "variables.scss";
 
+#slides-iframe {
+	margin-top: 2em;
+}
+
 section.register a {
 	color: $secondary-color;
 }

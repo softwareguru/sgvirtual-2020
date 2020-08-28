@@ -7,6 +7,9 @@ tracks:
 day_num: 5
 time_start: 2020-04-24T19:00:00.000Z
 time_end: 2020-04-24T19:10:00.000Z
+video: "https://youtube.com/embed/X-Z-LMA07o8"
+slides: "https://www.slideshare.net/slideshow/embed_code/key/lPWxEEvDJWtvcw"
+
 ---
 <!--StartFragment-->
 

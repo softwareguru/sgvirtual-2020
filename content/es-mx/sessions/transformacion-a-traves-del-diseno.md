@@ -7,6 +7,9 @@ tracks:
 day_num: 4
 time_start: 2020-04-23T21:00:00.000Z
 time_end: 2020-04-23T21:50:00.000Z
+video: "https://youtube.com/embed/egWPWcpUljU"
+slides: "https://www.slideshare.net/slideshow/embed_code/key/24q46QHvknBcbD"
+
 ---
 
 El Diseño Centrado en el Usuario es un pilar estratégico en los procesos de transformación organizacional. En esta plática, se abordará sobre la adopción de Design Thinking, y su integración con entornos de desarrollo ágil de software, en grandes organizaciones.
