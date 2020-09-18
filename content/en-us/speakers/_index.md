@@ -4,6 +4,5 @@ description: "SG Virtual gathers expert speakers from different topics and count
 
 ---
 
-## An amazing team of speakers
+## Coming soon
 
-SG Virtual gathers experts from different topics and countries.

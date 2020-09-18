@@ -2,44 +2,21 @@ enable :  true
 title_outline : "Patrocinadores"
 title : "SG Virtual es posible gracias a"
 sponsor_group:
-  - title : "Patrocinadores"
+  - title : ""
     slug : "sponsor"
     sponsor:
-      - logo : "images/logos/microsoft.png"
-        link : "https://microsoft.com"
-          
-      - logo : "images/logos/getonboard.png"
-        link : "https://www.getonbrd.com"
-
-      - logo : "images/logos/google.png"
-        link : "https://google.com"
-                    
-      - logo : "images/logos/snowflake.png"
-        link : "https://snowflake.com"
-
-      - logo : "images/logos/abiztar.png"
-        link : "https://www.abiztar.com.mx/"
+      
         
     ############################ sponsor group loop
   - title : "Organismos e instituciones aliadas"
     slug : "partner"
     sponsor:        
-      - logo : "images/logos/upv.png"
-        link : "http://www.upvictoria.edu.mx"
-
-      - logo : "images/logos/uv.jpg"
-        link : "https://www.uv.mx/fei/"
-
-      - logo : "images/logos/itesa.png"
-        link : "https://www.itesa.edu.mx"
-
-      - logo : "images/logos/uaeh.jpg"
-        link : "https://www.uaeh.edu.mx/"
+      
 
       - logo : "images/logos/prosoftware.png"
         link : "http://www.prosoftware.org.mx"
           
-      - logo : "images/logos/datapub.png"
+      - logo : "images/logos/logo-ITAM.png"
         link : "#"
           
                       

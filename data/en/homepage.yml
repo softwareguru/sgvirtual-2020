@@ -8,12 +8,12 @@ banner:
   description: "SG Virtual Conference is a online conference where software professionals share experience and best practices on how to build high performance software and high performance teams."
   button1:
     enable : true
-    label : "Join"
-    link : "live/"
+    label : "Sign up"
+    link : ""
   button2:
     enable : true
-    label : "Donate"
-    link : "covid-19/"
+    label : "Participate as a lecturer"
+    link : "https://convoca.dev/sgvirtual-20-11/cfp"
 
 
 ########################## timer #################################

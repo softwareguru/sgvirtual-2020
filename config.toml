@@ -176,9 +176,23 @@ link = "https://devrel.sg.com.mx"
 
   [[languages.en.menu.main]]
     name = "Schedule"
+    identifier = "schedule"
     URL = "/en/schedule/"
     weight = 1
+    hasChildren = true
+
+  [[languages.en.menu.main]]
+    name = "Schedule April 2020"
+    parent = "schedule"
+    identifier = "Schedule April 2020"
+    URL = "schedule/"
   
+  [[languages.en.menu.main]]
+    name = "Schedule Nov 2020"
+    parent = "schedule"
+    identifier = "Schedule Nov 2020"
+    URL = "new-schedule/"
+
   [[languages.en.menu.main]]
     name = "Speakers"
     URL = "/en/speakers/"
@@ -186,7 +200,7 @@ link = "https://devrel.sg.com.mx"
 
   [[languages.en.menu.main]]
     name = "Perks"
-    URL = "/en/perks/"
+    URL = "/en/swag/"
     weight = 3
 
   [[languages.en.menu.main]]
@@ -196,8 +210,8 @@ link = "https://devrel.sg.com.mx"
 
   [languages.en.params.navigation_button]
     enable = true
-    label = "Join"
-    link = "live/"
+    label = "Sign up"
+    link = "en/"
 
 
 [taxonomies]
