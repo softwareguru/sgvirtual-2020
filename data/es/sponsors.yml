@@ -2,22 +2,35 @@ enable :  true
 title_outline : "Patrocinadores"
 title : "SG Virtual es posible gracias a"
 sponsor_group:
-  - title : ""
+  - title : "Platinum"
     slug : "sponsor"
     sponsor:
+
+      - logo : "images/logos/Oracle_Cloud.png"
+        link : "https://www.oracle.com/"
       
         
     ############################ sponsor group loop
-  - title : "Organismos e instituciones aliadas"
+  - title : "Gold"
     slug : "partner"
-    sponsor:        
-      
+    sponsor:   
+
+      - logo : "images/logos/logo-ITAM.png"
+        link : "https://www.itam.mx/es/"
+
+
+    ############################ sponsor group loop
+  - title : "Organismos de apoyo"
+    slug : "partner"
+    sponsor:   
+
 
       - logo : "images/logos/prosoftware.png"
         link : "http://www.prosoftware.org.mx"
-          
-      - logo : "images/logos/logo-ITAM.png"
-        link : "#"
+
+
+
+      
           
                       
 # call to action in sponsor
