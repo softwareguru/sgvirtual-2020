@@ -2,36 +2,30 @@ enable :  true
 title_outline : "Sponsors"
 title : "SG Virtual is possible thanks to"
 sponsor_group:
-  - title : "Sponsors"
+  - title : "Platinum"
     slug : "sponsor"
     sponsor:
-      - logo : "images/logos/microsoft.png"
-        link : "https://microsoft.com"
-          
-      - logo : "images/logos/getonboard.png"
-        link : "https://www.getonbrd.com"
+      
+      - logo : "images/logos/Oracle_Cloud.png"
+        link : "https://www.oracle.com/"
+    ############################ sponsor group loop
+  - title : "Gold"
+    slug : "partner"
+    sponsor:
 
-      - logo : "images/logos/google.png"
-        link : "https://google.com"
-                    
-      - logo : "images/logos/snowflake.png"
-        link : "https://snowflake.com"
+      - logo : "images/logos/logo-ITAM.png"
+        link : "https://www.itam.mx/es/"
 
-      - logo : "images/logos/abiztar.png"
-        link : "https://www.abiztar.com.mx/"
-                  
     ############################ sponsor group loop
   - title : "Partners"
     slug : "partner"
-    sponsor:
+    sponsor:   
+
+
       - logo : "images/logos/prosoftware.png"
         link : "http://www.prosoftware.org.mx"
-          
-      - logo : "images/logos/datapub.png"
-        link : "#"
-          
                       
-# call to action in sponsor
+# call to action in sponsor Partners
 sponsorship:
   enable : true
   title : "Interested in joining?"
