@@ -15,3 +15,5 @@ You will need a ticket to join SG Virtual.
 
 
 Or if you would rather pay in mexican pesos and get an invoice from Mexico (CFDI), please go to the [spanish version](/sgvirtual/register) of this page.
+
+Check our data privacy policy at https://sg.com.mx/politicas-de-privacidad

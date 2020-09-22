@@ -37,3 +37,6 @@ Si estás fuera de México puedes adquirir tu boleto pagando en dólares via Tit
 <script src='https://js.tito.io/v1' async></script>
 
 <tito-widget event="sg/sgvirtual-20-11"></tito-widget>
+
+
+Consulta nuestra <a href="https://sg.com.mx/politicas-de-privacidad" target="_blank">política de privacidad de datos</a>.
