@@ -17,13 +17,13 @@
         </div>
           {{ if .button1.enable }}
           {{ with .button1 }}
-          <a href="{{ .link | absLangURL }}" class="btn btn-hero1 btn-rounded mb-4 mr-4">{{ .label }}</a>
+          <a href="{{ .link | absURL }}" class="btn btn-hero1 btn-rounded mb-4 mr-4">{{ .label }}</a>
           {{ end}}
           {{ end}}
 
           {{ if .button2.enable }}
           {{ with .button2 }}
-          <a href="{{ .link | absLangURL }}" class="btn btn-hero2 btn-rounded mb-4">{{ .label }}</a>
+          <a href="{{ .link | absURL }}" class="btn btn-hero2 btn-rounded mb-4">{{ .label }}</a>
           {{ end}}
           {{ end}}
 

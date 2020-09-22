@@ -9,7 +9,7 @@ banner:
   button1:
     enable : true
     label : "Registrate"
-    link : ""
+    link : "/sgvirtual/register"
   button2:
     enable : true
     label : "Participa como conferencista"

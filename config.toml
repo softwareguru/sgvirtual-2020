@@ -70,7 +70,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [params.navigation_button]
 enable = true
 label = "Registrate"
-link = ""
+link = "/sgvirtual/register"
 
 
 
@@ -210,8 +210,8 @@ link = "https://devrel.sg.com.mx"
 
   [languages.en.params.navigation_button]
     enable = true
-    label = "Sign up"
-    link = "en/"
+    label = "Tickets"
+    link = "/sgvirtual/en/register"
 
 
 [taxonomies]
