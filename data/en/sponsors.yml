@@ -24,6 +24,9 @@ sponsor_group:
 
       - logo : "images/logos/prosoftware.png"
         link : "http://www.prosoftware.org.mx"
+
+      - logo : "images/logos/logo-ijalti.png"
+        link : "https://www.ijalti.org.mx"
                       
 # call to action in sponsor Partners
 sponsorship:
