@@ -18,6 +18,9 @@ sponsor_group:
       - logo : "images/logos/logo-ITAM.png"
         link : "https://www.itam.mx/es/"
 
+      - logo : "images/logos/denodo-logo.png"
+        link : "https://www.denodo.com/es"
+
 
     ############################ sponsor group loop
   - title : "Organismos de apoyo"
