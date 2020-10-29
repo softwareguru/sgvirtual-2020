@@ -11,7 +11,7 @@ banner:
     label : "Registrate"
     link : "/sgvirtual/register"
   button2:
-    enable : true
+    enable : false
     label : "Participa como conferencista"
     link : "https://convoca.dev/sgvirtual-20-11/cfp"
 

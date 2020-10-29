@@ -8,7 +8,11 @@ sponsor_group:
 
       - logo : "images/logos/Oracle_Cloud.png"
         link : "https://www.oracle.com/"
-      
+      - logo : "images/logos/snowflake.png"
+        link : "https://www.snowflake.com/"
+      - logo : "images/logos/microsoft.png"
+        link : "https://www.microsoft.com/es-mx/"
+
         
     ############################ sponsor group loop
   - title : "Gold"
