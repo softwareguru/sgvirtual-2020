@@ -37,6 +37,9 @@ sponsor_group:
 
       - logo : "images/logos/logo-ijalti.png"
         link : "https://www.ijalti.org.mx"
+
+      - logo : "images/logos/CSOFT_logo.png"
+        link : "https://www.csoftmty.org/"  
           
                       
 # call to action in sponsor
