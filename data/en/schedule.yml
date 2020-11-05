@@ -1,32 +1,32 @@
 schedule:
   enable : true
   title_outline : "Schedule"
-  title : "All times refer to CDT (GMT-5)"
+  title : "All times refer to CDT (GMT-6)"
   schedule_tab:
     ################# tab itam loop ################
     - title : "Monday"
-      date_time : "April 20"
-      tracks: "Agile, Culture & Testing"
+      date_time : "November 30th"
+      tracks: "Agile & Culture"
           
     ################# tab itam loop ################
     - title : "Tuesday"
-      date_time : "April 21st"
+      date_time : "December 01st"
       tracks: "Architecture & DevOps"
           
     ################# tab itam loop ################
     - title : "Wednesday"
-      date_time : "April 22nd"
-      tracks: "Data science & engineering"
+      date_time : "December 02nd"
+      tracks: "Data"
 
     ################# tab itam loop ################
     - title : "Thursday"
-      date_time : "April 23rd"
-      tracks: "User & Customer eXperience"
+      date_time : "December 03rd"
+      tracks: "Testing & UX"
           
     ################# tab itam loop ################
     - title : "Friday"
-      date_time : "April 24th"
-      tracks: "Trends & Career development"
+      date_time : "December 04th"
+      tracks: "Frontend - Mobile"
 
           
 

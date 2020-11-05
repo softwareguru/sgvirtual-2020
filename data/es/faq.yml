@@ -6,6 +6,17 @@ faq:
 
   faq_item:
 
+    - title: ¿Por qué ya no es free access?
+      content: |
+        En los últimos años hemos hecho un gran esfuerzo para llevar este evento sin costo para nuestra comunidad. Sin embargo, hemos decidido asignar los ingresos de asistencias a honorarios para los ponentes, buscando de alguna manera agradecerles todo su esfuerzo.
+        
+        Igualmente hemos mejorado los beneficios para mejorar tu experiencia. Algunos son:
+        
+        * Acceso inmediato a todas las grabaciones de las sesiones.
+        * Contacto directo con ponentes mediante el slack del evento.
+        * Traducción simultánea - Sesiones en idioma inglés y en español.
+        * Acceso exclusivo e ilimitado a las presentaciones y grabaciones
+
     - title : "¿Cuál será el horario del evento?"
       content : | 
         Actualmente estamos diseñando la agenda, en próximos días se publicará la agenda y horarios del evento.
