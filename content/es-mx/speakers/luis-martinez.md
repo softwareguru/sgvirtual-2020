@@ -1,8 +1,8 @@
 ---
-title: "Luis Manuel Martínez"
+title: "Luis Martínez"
 date: 2020-11-04T19:51:02-06:00
 image : "/images/speakers/luis-manuel.png"
-designation : "Socio Director"
+designation : "Socio Director @ Transforma"
 country: "mx"
 twitter: ""
 linkedin: ""

@@ -10,7 +10,7 @@ theme = "vixcon-hugo"
 # post pagination
 paginate = "8"
 # post excerpt
-disqusShortname = "vixcon" # get your shortname form here : https://disqus.com
+disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # disable language from here
 
@@ -60,6 +60,9 @@ contact_form_action = "#" # contact form works with https://formspree.io
 google_analitycs_id = "UA-21077034-40" # your id
 # search for blog page
 search = true
+
+days_arr = ["Lunes 30 de noviembre", "Martes 1 de diciembre", "Miércoles 2 de diciembre", "Jueves 3 de diciembre", "Viernes 4 de diciembre"]
+
 
 # Preloader
 [params.preloader]
@@ -125,7 +128,7 @@ link = "https://devrel.sg.com.mx"
   [[languages.es.menu.main]]
   name = "Agenda"
   identifier = "agenda"
-  URL = "schedule/"
+  URL = "/schedule/"
   weight = 1
  
   [[languages.es.menu.main]]
@@ -159,13 +162,13 @@ link = "https://devrel.sg.com.mx"
 
   [[languages.en.menu.main]]
     name = "Schedule"
-    URL = "/en/schedule/"
+    URL = "/schedule/"
     weight = 1
 
 
   [[languages.en.menu.main]]
     name = "Speakers"
-    URL = "/en/speakers/"
+    URL = "/speakers/"
     weight = 2
 
   [[languages.en.menu.main]]
