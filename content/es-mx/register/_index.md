@@ -9,6 +9,7 @@ La participación en SG Virtual requiere que adquieras un boleto.
 
 Si planeas pagar en pesos mexicanos y/o necesitas CFDI, adquiere tu boleto por Eventbrite usando este widget:
 
+
 <div id="eventbrite-widget-container-119956211257"></div>
 
 <script src="https://www.eventbrite.com.mx/static/widgets/eb_widgets.js"></script>
@@ -29,6 +30,18 @@ Si planeas pagar en pesos mexicanos y/o necesitas CFDI, adquiere tu boleto por E
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
+
+<h2>Descuentos</h2>
+
+Estos descuentos no son acumulables entre sí:
+
+<ul>
+
+<li>25% de descuento para mujeres. Regístrate con el código SG4WOMEN</li>
+<li>Grupos de 10 o más personas, escriben a eventos@sg.com.mx para obtener un descuento de grupo.</li>
+<li>Si eres estudiante, contamos con becas y puedes aplicar antes del 20 de noviembre en la <a href="https://forms.gle/JgSbg4y7h997tFdH9" target="_blank">siguiente forma.</a></li>
+
+</ul>   
 
 <hr>
 
