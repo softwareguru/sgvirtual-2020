@@ -3,16 +3,12 @@ title: "Vicente Plata"
 date: 2020-11-17T15:18:42-06:00
 image : "/images/speakers/vicente-plata.jpg"
 designation : "Lead Software Engineer @ hims & hers"
-country: "mx"
+country: "ca"
 twitter: "https://twitter.com/xnt"
-linkedin: ""
+linkedin: "https://www.linkedin.com/in/vrplata/"
 github: ""
 ---
 
-15+ years getting things done, crafting impactful and measurable software solutions, and building strong teams with amazing people.
+Vicente es un líder de ingeniería polifacético que lo mismo escribe código, diseña y ejecuta estrategias de QA, juega a ser Project Manager, hace análisis de datos e idea estrategias de negocio. Cuenta con más de 17 años de experiencia creando software y guiando equipos en startups y compañías grandes, incluyendo 6 años en Microsoft.
 
-Data-driven, goal-oriented, world-class systems with accessibility, full-stack mobile and web development, security, testing, telemetry and automation.
-
-Great communicator (English and Spanish), writer and passionate about leadership topics and career development. I like helping customers achieve more, stakeholders be more effective and fellow engineers become more productive, empowered and happier.
-
-Experienced with a plethora of technologies including Java, C# / .net, Android, JavaScript, React, React Native, TypeScript, Postgres, and others. Tech is the tool, processes are a medium, but building things that delight and solve problems whilst having fun and strengthening relationships is the goal. 
+Actualmente radica en Kitchener-Waterloo, donde trabaja principalmente con Hims & Hers (un unicornio de telemedicina estadounidense) lidereando el equipo que crea su Sistema de Récords Médicos (EMR), mientras colabora como asesor de varias startups y comunidades en temas de cultura y trabajo remoto. En su tiempo libre intenta compartir sus experiencias 1:1 con creadores de software latinoamericanos en temas de liderazgo, desarrollo de carrera y networking. 

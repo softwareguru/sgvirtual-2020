@@ -44,6 +44,7 @@ link="https://kit.fontawesome.com/4a6d2efc2e.js"
 [params]
 logo = "/sgvirtual/images/logo.jpg"
 home = "Home"
+add_calendar = false
 
 # Meta data
 description = """SG Virtual es un congreso en línea gratuito para 

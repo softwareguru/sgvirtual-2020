@@ -2,7 +2,7 @@
 title: "Gilberto Sánchez Mares"
 date: 2020-11-06T10:20:19-06:00
 image : "/images/speakers/gilberto-sanchez.jpg"
-designation : "Director en Titanium Institute"
+designation : "Director @ Titanium Institute"
 country: "mx"
 twitter: ""
 linkedin: ""

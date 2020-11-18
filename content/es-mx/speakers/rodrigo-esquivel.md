@@ -2,7 +2,7 @@
 title: "Rodrigo Esquivel Cordero"
 date: 2020-11-04T20:02:05-06:00
 image : "/images/speakers/rodrigo-esquivel.jpg"
-designation : "Arquitecto Empresarial Senior"
+designation : "Arquitecto Empresarial @ SOAIN Software Associates"
 country: "mx"
 twitter: ""
 linkedin: ""

@@ -2,7 +2,7 @@
 title: "Mariano Renteria"
 date: 2020-11-04T20:00:24-06:00
 image : "/images/speakers/mariano-renteria.jpg"
-designation : "Director de Ingenieria en MedTrainer"
+designation : "Director de Ingenieria @ MedTrainer"
 country: "mx"
 twitter: ""
 linkedin: ""

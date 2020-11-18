@@ -2,8 +2,8 @@
 title: "Alex Arriaga"
 date: 2020-11-04T20:06:15-06:00
 image : "/images/speakers/alex-arriaga.jpg"
-designation : "Front-end Engineer at Amazon Web Services USA"
-country: "mx"
+designation : "Front-end Engineer @ AWS"
+country: "us"
 twitter: ""
 linkedin: ""
 github: ""

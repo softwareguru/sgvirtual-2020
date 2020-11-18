@@ -2,7 +2,7 @@
 title: "Martin Cuitzeo Dominguez Núñez"
 date: 2020-11-04T20:04:49-06:00
 image : "/images/speakers/martin-cuitzeo.jpg"
-designation : "Profesor investigador en la Escuela de Antropología e Historia del Norte de México"
+designation : "Profesor investigador @ Escuela de Antropología e Historia del Norte de México"
 country: "mx"
 twitter: ""
 linkedin: ""

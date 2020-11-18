@@ -9,4 +9,9 @@ linkedin: "https://www.linkedin.com/in/carlos-contreras-hernandez/"
 github: ""
 ---
 
-I’m a Software engineer committed to deliver high quality solutions with optimal performance. I like to learn new things and always looking for new technologies to add to my skill stack, I’m a self taught person with a strong sense of ownership, communication and leadership skills. 
+Carlos es un ingeniero de software/albañil digital que disfruta mucho de construir código de calidad. Actualmente trabaja en Hims & Hers, una compañía de telemedicina americana.
+
+A Carlos le gusta mucho Ruby, Javascript y hablar de código. Últimamente está enfocado en el desarrollo front-end con React y especialmente con React Native. 
+
+En su tiempo libre le gusta estar echado en el sofá y pasar (a lo mejor demasiado) tiempo en internet.
+

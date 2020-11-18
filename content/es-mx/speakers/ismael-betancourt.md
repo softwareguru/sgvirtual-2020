@@ -2,7 +2,7 @@
 title: "Ismael Betancourt"
 date: 2020-11-04T19:48:32-06:00
 image : "/images/speakers/ismael-betancourt.jpeg"
-designation : "Gerente de Procesos TI"
+designation : "Gerente de Procesos @ Praxis"
 country: "mx"
 twitter: ""
 linkedin: ""

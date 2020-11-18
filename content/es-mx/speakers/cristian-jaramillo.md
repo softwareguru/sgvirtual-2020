@@ -2,7 +2,7 @@
 title: "Cristian Jaramillo"
 date: 2020-11-17T15:10:45-06:00
 image : "/images/speakers/cristian-jaramillo.jpg"
-designation : ""
+designation : "CTO @ Biaya"
 country: "mx"
 twitter: ""
 linkedin: ""

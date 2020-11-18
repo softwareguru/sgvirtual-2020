@@ -2,7 +2,7 @@
 title: "Leonardo Micheloni"
 date: 2020-11-04T19:57:33-06:00
 image : "/images/speakers/leonardo-micheloni.png"
-designation : "Arquitecto de Software en Tokiota"
+designation : "Arquitecto de Software @ Tokiota"
 country: "es"
 twitter: ""
 linkedin: ""
