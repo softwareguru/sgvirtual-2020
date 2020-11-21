@@ -4,7 +4,7 @@ date: 2020-04-07T10:17:52-05:00
 image : "/images/logos/snowflake.png"
 form_link: "https://www.snowflake.com/event/sg-day-con-snowflake/"
 weight: 5
-
+draft: true
 ---
 
 Snowflake ofrece una demostración en español para los asistentes de SG Virtual, junto con una cuenta de
