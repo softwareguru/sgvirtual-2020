@@ -8,4 +8,3 @@ description: "Participa en las promociones que ofrecen los patrocinadores de SG 
 
 El kit virtual reúne promociones que ofrecen los distintos patrocinadores de SG Virtual. Consulta cada una y participa. 
 
-Muy pronto más información.
