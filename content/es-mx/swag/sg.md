@@ -1,10 +1,10 @@
 ---
-title: "Gánate un Kindle Reader"
-date: 2020-04-07T10:17:52-05:00
+title: "Gana un Amazon Echo 4 Gen (1er lugar) y un Echo Dot (2do lugar)"
+date: 2020-11-25T10:17:52-05:00
 image : "/images/logos/sg.jpg"
-form_link: "https://forms.gle/cg72yTrU6xBgPi3R6"
+form_link: "https://sgvirtual.slack.com"
 weight: 6
-draft: true
+draft: false
 ---
 
-Software Guru rifará un Kindle Reader 10a generación. Todo lo que necesitas hacer es subscribirte al newsletter de SG.
+Participa en la trivia que se realizará en el slack del evento, y gana un Amazon Echo 4 Gen (1er lugar) o un Echo Dot (2do lugar)

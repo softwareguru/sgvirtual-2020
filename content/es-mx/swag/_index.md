@@ -4,7 +4,7 @@ description: "Participa en las promociones que ofrecen los patrocinadores de SG 
 
 ---
 
-## Participa en las promociones
+## Aprovecha el kit para participantes
 
-El kit virtual reúne promociones que ofrecen los distintos patrocinadores de SG Virtual. Consulta cada una y participa. 
+El kit virtual reúne regalos que ofrecen los distintos patrocinadores de SG Virtual. Consulta cada una y participa. 
 

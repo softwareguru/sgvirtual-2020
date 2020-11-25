@@ -19,7 +19,7 @@ faq:
 
     - title : "¿Cuál será el horario del evento?"
       content : | 
-        Actualmente estamos diseñando la agenda, en próximos días se publicará la agenda y horarios del evento.
+        Cada día estará conformado por 2 bloques: de 12:00 a 15:00 hrs CST, y de 17:00hrs a 19:15hrs, y el evento virtual de networking será el día miércoles al término de las sesiones, de 19:15 a 21:15hrs CST.
 
     - title : "¿Cómo reservo mi lugar para sesiones específicas?"
       content : | 
@@ -64,6 +64,9 @@ faq:
             
     - title : "¿Las grabaciones y slides de las sesiones se compartirán?"
       content : "Todas las sesiones serán grabadas y se compartirán con los asistentes del evento, así como las presentaciones (slides)."
+
+    - title: "¿Habrá traducción simultánea de las sesiones en Inglés?"
+      content : "Si, para las sesiones en inglés, tendremos dos sesiones simultáneas, ingresa a la ventana de transmisión (Crowdcast) y en la agenda (menú superior izquierdo), podrás seleccionar si quieres escuchar la sesión en español o en inglés."
 
     - title : "Código de conducta"
       content : "SG Virtual es una conferencia amigable en la que todos deben sentirse bienvenidos, seguros y cómodos. Consulta el [Código de conducta](https://sg.com.mx/sgvirtual/coc/).</a>"

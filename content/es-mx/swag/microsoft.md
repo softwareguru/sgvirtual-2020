@@ -8,4 +8,4 @@ draft: false
 
 ---
 
-Gana un gift card de Uber eats, Lift, Amazon.
+Asiste al evento virtual de networking en Gather.town el miércoles 19:15hrs CST, y participa en las rifas de gift cards de Uber eats, Lift, y Amazon.
