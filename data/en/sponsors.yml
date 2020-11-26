@@ -23,6 +23,9 @@ sponsor_group:
       - logo : "images/logos/denodo-logo.png"
         link : "https://www.denodo.com/es"
 
+      - logo : "images/logos/google-cloud.jpg"
+        link : "https://cloud.google.com/"
+
       - logo : "images/logos/getonboard.png"
         link : "https://www.getonbrd.com.mx/"
 
