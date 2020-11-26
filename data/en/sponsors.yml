@@ -23,6 +23,12 @@ sponsor_group:
       - logo : "images/logos/denodo-logo.png"
         link : "https://www.denodo.com/es"
 
+      - logo : "images/logos/getonboard.png"
+        link : "https://www.getonbrd.com.mx/"
+
+      - logo : "images/logos/BP2C.png"
+        link : "https://bestplacetocode.com"
+
         
 
     ############################ sponsor group loop
