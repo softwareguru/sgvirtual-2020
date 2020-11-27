@@ -2,7 +2,7 @@
 title: "José Octavio Gutiérrez"
 date: 2020-11-17T15:43:54-06:00
 image : "/images/speakers/jose-octavio-gutierrez.jpg"
-designation : "Director de Maestría en Ciencia de Datos @ ITAM"
+designation : "Director de Maestría en Ciencias en Computación @ ITAM"
 country: "mx"
 twitter: ""
 linkedin: ""

@@ -143,14 +143,19 @@ link = "https://devrel.sg.com.mx"
   weight = 3
 
   [[languages.es.menu.main]]
+  name = "Networking"
+  URL = "/networking/"
+  weight = 4
+
+  [[languages.es.menu.main]]
   name = "FAQ"
   URL = "/faq/"
-  weight = 4
+  weight = 5
 
   [[languages.es.menu.main]]
   name = "Equipo"
   URL = "/team/"
-  weight = 5
+  weight = 6  
 
 
   [languages.en]
@@ -178,9 +183,14 @@ link = "https://devrel.sg.com.mx"
     weight = 3
 
   [[languages.en.menu.main]]
+  name = "Networking"
+  URL = "/networking/"
+  weight = 4
+
+  [[languages.en.menu.main]]
     name = "FAQ"
     URL = "/en/faq/"
-    weight = 4
+    weight = 5
 
   [languages.en.params.navigation_button]
     enable = true
