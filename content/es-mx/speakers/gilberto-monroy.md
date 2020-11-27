@@ -2,7 +2,7 @@
 title: "Gilberto Monroy"
 date: 2020-11-24T16:38:45-06:00
 image : "/images/speakers/gilberto-monroy.jpg"
-designation : "Solution Specialist"
+designation : "Sr. Solution Center Engineer LAD @Oracle"
 country: "mx"
 twitter: ""
 linkedin: ""

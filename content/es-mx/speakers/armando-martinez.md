@@ -2,7 +2,7 @@
 title: "Armando Martínez"
 date: 2020-11-24T16:34:01-06:00
 image : "/images/speakers/armando-martinez.jpg"
-designation : "Sr Sales Consultant"
+designation : "Sr. Solution Center Engineer LAD @Oracle"
 country: "mx"
 twitter: ""
 linkedin: ""

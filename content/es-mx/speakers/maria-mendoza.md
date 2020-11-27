@@ -2,7 +2,7 @@
 title: "María Esther Mendoza"
 date: 2020-11-24T16:30:32-06:00
 image : "/images/speakers/maria-mendoza.jpg"
-designation : "Sr Sales Consultan"
+designation : "Sr. Solution Center Engineer LAD @Oracle"
 country: "mx"
 twitter: ""
 linkedin: ""
