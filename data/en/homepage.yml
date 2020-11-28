@@ -8,8 +8,8 @@ banner:
   description: "SG Virtual Conference is a online conference where software professionals share experience and best practices on how to build high performance software and high performance teams."
   button1:
     enable : true
-    label : "Tickets"
-    link : "/sgvirtual/en/register"
+    label : "Watch now"
+    link : "/sgvirtual/live"
   button2:
     enable : false
     label : "Join as a speaker"

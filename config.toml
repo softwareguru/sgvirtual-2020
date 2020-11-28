@@ -73,8 +73,8 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Registrate"
-link = "/sgvirtual/register"
+label = "Ver ahora"
+link = "/sgvirtual/live"
 
 
 
@@ -152,11 +152,6 @@ link = "https://devrel.sg.com.mx"
   URL = "/faq/"
   weight = 5
 
-  [[languages.es.menu.main]]
-  name = "Equipo"
-  URL = "/team/"
-  weight = 6  
-
 
   [languages.en]
     languageName = "English"
@@ -194,8 +189,8 @@ link = "https://devrel.sg.com.mx"
 
   [languages.en.params.navigation_button]
     enable = true
-    label = "Tickets"
-    link = "/sgvirtual/en/register"
+    label = "Live"
+    link = "/sgvirtual/live"
 
 
 [taxonomies]

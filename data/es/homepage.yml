@@ -8,8 +8,8 @@ banner:
   description: "SG Virtual es un congreso en línea para profesionistas de software donde expertos de todo el mundo comparten conocimiento y mejores prácticas para construir software grandioso."
   button1:
     enable : true
-    label : "Registrate"
-    link : "/sgvirtual/register"
+    label : "Ver ahora"
+    link : "/sgvirtual/live"
   button2:
     enable : false
     label : "Participa como conferencista"
