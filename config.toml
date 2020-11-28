@@ -174,7 +174,7 @@ link = "https://devrel.sg.com.mx"
 
   [[languages.en.menu.main]]
     name = "Perks"
-    URL = "/en/swag/"
+    URL = "/swag/"
     weight = 3
 
   [[languages.en.menu.main]]

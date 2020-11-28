@@ -47,7 +47,14 @@ sponsor_group:
         link : "https://www.ijalti.org.mx"
 
       - logo : "images/logos/CSOFT_logo.png"
-        link : "https://www.csoftmty.org/"                
+        link : "https://www.csoftmty.org/"     
+
+      - logo : "images/logos/manning.png"
+        link : "https://www.manning.com/" 
+      
+      - logo : "images/logos/packt.png"
+        link : "https://www.packtpub.com/?___store=us" 
+                   
 # call to action in sponsor Partners
 sponsorship:
   enable : true
