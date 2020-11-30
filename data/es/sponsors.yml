@@ -35,7 +35,7 @@ sponsor_group:
 
 
     ############################ sponsor group loop
-  - title : "Organismos de apoyo"
+  - title : "Apoyos"
     slug : "partner"
     sponsor:   
 
@@ -48,6 +48,12 @@ sponsor_group:
 
       - logo : "images/logos/CSOFT_logo.png"
         link : "https://www.csoftmty.org/"  
+
+      - logo : "images/logos/manning.png"
+        link : "https://www.manning.com/" 
+      
+      - logo : "images/logos/packt.png"
+        link : "https://www.packtpub.com/?___store=us" 
           
                       
 # call to action in sponsor
