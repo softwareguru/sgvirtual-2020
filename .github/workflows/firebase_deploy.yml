@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - uses: jakejarvis/hugo-build-action@master
+    - uses: pedrogk/hugo-build-action@master
     - uses: actions/upload-artifact@master
       with:
         name: website
