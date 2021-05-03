@@ -1,15 +1,15 @@
 ############################# banner ################################
 banner:
   enable : true
-  title : "SG Virtual <br>Conference"
-  date_time : "November 30th - December 4th, 2020."
+  title : "SG Virtual <br>Conference Enterprise"
+  date_time : "June 1st, 8th y 15th, 2021."
   venue: "Location: Anywhere."
   slogan: "Learning and sharing together"
-  description: "SG Virtual Conference is a online conference where software professionals share experience and best practices on how to build high performance software and high performance teams."
+  description: "SG Virtual Conference Enterprise is a online conference where software professionals share experience and best practices on how to build high performance software and high performance teams. This edition will be focused on the development of business software."
   button1:
     enable : true
-    label : "Watch now"
-    link : "/sgvirtual/live"
+    label : "Register here"
+    link : "/sgvirtual/register"
   button2:
     enable : false
     label : "Join as a speaker"

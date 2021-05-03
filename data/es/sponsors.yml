@@ -6,55 +6,10 @@ sponsor_group:
     slug : "sponsor"
     sponsor:
 
-      - logo : "images/logos/Oracle_Cloud.png"
-        link : "https://www.oracle.com/"
       - logo : "images/logos/microsoft.png"
         link : "https://www.microsoft.com/es-mx/"
 
-        
-    ############################ sponsor group loop
-  - title : "Gold"
-    slug : "partner"
-    sponsor:   
-
-      - logo : "images/logos/logo-ITAM.png"
-        link : "https://www.itam.mx/es/"
-
-      - logo : "images/logos/denodo-logo.png"
-        link : "https://www.denodo.com/es"
-        
-      - logo : "images/logos/google-cloud.jpg"
-        link : "https://cloud.google.com/"
-
-      - logo : "images/logos/getonboard.png"
-        link : "https://www.getonbrd.com.mx/"
-
-      - logo : "images/logos/BP2C.png"
-        link : "https://bestplacetocode.com"
-
-
-
-    ############################ sponsor group loop
-  - title : "Apoyos"
-    slug : "partner"
-    sponsor:   
-
-
-      - logo : "images/logos/prosoftware-logo.jpg"
-        link : "http://www.prosoftware.org.mx"
-
-      - logo : "images/logos/logo-ijalti.png"
-        link : "https://www.ijalti.org.mx"
-
-      - logo : "images/logos/CSOFT_logo.png"
-        link : "https://www.csoftmty.org/"  
-
-      - logo : "images/logos/manning.png"
-        link : "https://www.manning.com/" 
-      
-      - logo : "images/logos/packt.png"
-        link : "https://www.packtpub.com/?___store=us" 
-          
+   
                       
 # call to action in sponsor
 sponsorship:

@@ -4,7 +4,7 @@ date: 2020-04-07T10:17:52-05:00
 image : "/images/logos/microsoft.png"
 form_link: "https://gather.town/app/6d9gAoXM1eG2W4Qa/sgvirtual"
 weight: 4
-draft: false
+draft: true
 
 ---
 

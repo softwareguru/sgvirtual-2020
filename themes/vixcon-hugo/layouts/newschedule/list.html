@@ -1,0 +1,39 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+
+<section class="section-schedule section">
+    <div class="container">
+      <div class="row section-heading">
+        <div class="col-lg-9">
+          <div class="heading">
+            <span class="stroke-text">{{ .Title }}</span>
+            <div class="pl-90 content">
+              {{ .Content }}
+            </div>
+          </div>
+        </div>
+      </div>
+   
+      <div class="row">
+          {{ range .Data.Pages }}
+        <div class="col-12 col-md-4 px-3 mb-3">
+          <div class="card h-100">
+              <img src="/sgvirtual{{ .Params.Image }}" class="card-img-top" alt="..." width="200px" height="250px">
+            <div class="card-body">
+              <h3 class="card-title">{{ .Title }}</h3>        
+              <h6 class="card-subtitle mb-4 text-muted">{{ .Params.Description }}</h6>
+              
+              </div>
+              
+     
+            </div>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </section>
+
+{{ end }}

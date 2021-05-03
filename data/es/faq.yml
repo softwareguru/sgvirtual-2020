@@ -6,38 +6,43 @@ faq:
 
   faq_item:
 
-    - title: ¿Por qué ya no es free access?
+    - title: ¿Tiene algún costo?
       content: |
-        En los últimos años hemos hecho un gran esfuerzo para llevar este evento sin costo para nuestra comunidad. Sin embargo, hemos decidido asignar los ingresos de asistencias a honorarios para los ponentes, buscando de alguna manera agradecerles todo su esfuerzo.
+        No, esta edición de SG Virtual Conference Enterprise es totalmente gratuita. ¡Sólo necesitas registrarte!
+
+        Congreso en línea para profesionistas de software donde expertos de todo el mundo comparten conocimiento y mejores prácticas para construir software grandioso.Esta edición estará enfocada en el desarrollo de software empresarial.
+
+        Esta edición estará enfocada en ayudar a organizaciones de TI empresarial a entender la oferta de distintos proveedores y plataformas alrededor de 3 líneas de interés: 
         
-        Igualmente hemos mejorado los beneficios para mejorar tu experiencia. Algunos son:
-        
-        * Acceso inmediato a todas las grabaciones de las sesiones.
-        * Contacto directo con ponentes mediante el slack del evento.
-        * Traducción simultánea - Sesiones en idioma inglés y en español.
-        * Acceso exclusivo e ilimitado a las presentaciones y grabaciones
+        * Ingeniería+ciencia de datos,
+        * Arquitectura y gestión de aplicaciones en ambientes de nube (cloud native),
+        * Desarrollo, despliegue y gestión ágil de aplicaciones (DevOps).
+
+
 
     - title : "¿Cuál será el horario del evento?"
       content : | 
-        Cada día estará conformado por 2 bloques: de 12:00 a 15:00 hrs CST, y de 17:00hrs a 19:15hrs, y el evento virtual de networking será el día miércoles al término de las sesiones, de 19:15 a 21:15hrs CST.
+        Cada día estará conformado por 3 horas de paneles de discusión y sesiones, los talleres serán por las tardes entre 4 y 7 pm
 
     - title : "¿Cómo reservo mi lugar para sesiones específicas?"
       content : | 
-        SG Virtual Conference es un evento pagado, pero no te preocupes la tarifa será muy accesible, se contará con varios descuentos y becas a las que estudiantes podrán aplicar. 
+        SG Virtual Conference Enterprise es un evento gratuito, y solo deberás registrarte una vez. Simplemente ingresa al evento cuando lo desees:
         
-        1. Previo al evento, aparecerá en el sitio web el botón: LIVE. O podrás ingresar a la página: 
-        2. Dar click al botón que dice “Ingresar / Join”. Saldrá un pop-up con el mensaje “Join event” solicitando tu dirección de email.
-        3. Al introducir tu email, el sistema detectará si ya estás registrada(o) y en caso de ser así te mostrará un botón para recibir un login link por correo. Dale click y recibirás un correo con un enlace para hacer login a Data Days Virtual en Crowdcast (la plataforma que estamos utilizando para la transmisión).
-        4. Si en el paso 3 el sistema no reconoce tu correo, te pedimos nos contactes: eventos@sg.com.mx
+        * Previo al evento, aparecerá en el sitio web el botón: LIVE. O podrás ingresar a la página:
+        * Dar click al botón que dice “Ingresar / Join”. Saldrá un pop-up con el mensaje “Join event” solicitando tu dirección de email.
+        * Al introducir tu email, el sistema detectará si ya estás registrada(o) y en caso de ser así te mostrará un botón para recibir un login link por correo. Dale click y recibirás un correo con un enlace para hacer login a SG Virtual Conference Enterprise (la plataforma que estamos utilizando para la transmisión).
+        * Si en el paso 3 el sistema no reconoce tu correo, te pedimos nos contactes: eventos@sg.com.mx
         
     - title : "¿Qué software necesito para conectarme?"
       content : "Solo necesitas una computadora con un navegador web actualizado, de preferencia Google Chrome o Mozilla Firefox."
 
     - title : "¿Dónde puedo ver las grabaciones?"  
       content: | 
-        Durante la semana del evento las grabaciones estarán disponibles desde la misma página de transmisión. Ingresa y una vez que tengas 
-        una sesión activa podrás dar click en la parte superior izquierda del menú de transmisión y se desplegará una lista de las distintas sesiones (ver imagen).
+        Las grabaciones del evento  estarán disponibles en la misma página de transmisión. 
+
+        Ingresa y una vez que tengas una sesión activa podrás dar click en la parte superior izquierda del menú de transmisión y se desplegará una lista de las distintas sesiones.
         Si seleccionas una sesión anterior podrás ver la grabación.
+
         
         ![Menú con sesiones anteriores](/sgvirtual/images/menu-sesiones-anteriores.jpg "Menu con sesiones anteriores")
 
@@ -65,11 +70,9 @@ faq:
     - title : "¿Las grabaciones y slides de las sesiones se compartirán?"
       content : "Todas las sesiones serán grabadas y se compartirán con los asistentes del evento, así como las presentaciones (slides)."
 
-    - title: "¿Habrá traducción simultánea de las sesiones en Inglés?"
-      content : "Si, para las sesiones en inglés, tendremos dos sesiones simultáneas, ingresa a la ventana de transmisión (Crowdcast) y en la agenda (menú superior izquierdo), podrás seleccionar si quieres escuchar la sesión en español o en inglés."
 
     - title : "Código de conducta"
-      content : "SG Virtual es una conferencia amigable en la que todos deben sentirse bienvenidos, seguros y cómodos. Consulta el [Código de conducta](https://sg.com.mx/sgvirtual/coc/).</a>"
+      content : "SG Virtual Enterprise es una conferencia amigable en la que todos deben sentirse bienvenidos, seguros y cómodos. Consulta el [Código de conducta](https://sg.com.mx/sgvirtual/coc/).</a>"
 
     - title : "Contáctanos"
       content : "Si no hemos logrado resolver tus preguntas, por favor contáctanos:  eventos@sg.com.mx. También puedes consultar nuestro  [aviso de privacidad](https://sg.com.mx/politicas-de-privacidad)."

@@ -1,17 +1,24 @@
 ############################# banner ################################
 banner:
   enable : true
-  title : "SG Virtual <br>Conference"
-  date_time : "30 de noviembre al 4 de diciembre de 2020."
+  title : "SG Virtual <b>Conference Enterprise"
+  date_time : " 1, 8 y 15 de junio, 2021."
   venue: "Sede: Donde tú te encuentres."
-  slogan: "Unidos compartiendo <br>y aprendiendo"
-  description: "SG Virtual es un congreso en línea para profesionistas de software donde expertos de todo el mundo comparten conocimiento y mejores prácticas para construir software grandioso."
+  slogan: "Navegando el ecosistema de <br>plataformas modernas"
+  description : |
+
+      SG Virtual es un congreso en línea para profesionistas de software donde expertos de todo el mundo comparten conocimiento y mejores prácticas para construir software grandioso. 
+          
+      Esta edición estará enfocada en ayudar a organizaciones de TI empresarial a entender la oferta de distintos proveedores y plataformas alrededor de 3 líneas de interés: 
+        
+      Ingeniería+ciencia de datos, Cloud native y DevOps.
+
   button1:
     enable : true
     label : "Obtén tu boleto"
     link : "/sgvirtual/register"
   button2:
-    enable : true
+    enable : false
     label : "Ver ahora"
     link : "/sgvirtual/live"
 

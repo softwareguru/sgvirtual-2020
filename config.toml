@@ -73,8 +73,8 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Ver ahora"
-link = "/sgvirtual/live"
+label = "Registrarse"
+link = "/sgvirtual/register"
 
 
 
@@ -131,21 +131,36 @@ link = "https://devrel.sg.com.mx"
   identifier = "agenda"
   URL = "/schedule/"
   weight = 1
- 
+  hasChildren = true
+
+ ##### Sub menu de Agenda#####
   [[languages.es.menu.main]]
-  name = "Conferencistas"
-  URL = "/speakers/"
-  weight = 2
+  parent = "agenda"
+  name = "Diciembre 2020"
+  identifier = "agenda2020"
+   URL = "schedule/"
+
+  [[languages.es.menu.main]]
+  parent = "agenda"
+  name = "Junio 2021"
+  identifier = "agenda2021"
+   URL = "newschedule/"
+  
+ 
+  #[[languages.es.menu.main]]
+  #name = "Conferencistas"
+  #URL = "/speakers/"
+  #weight = 2
 
   [[languages.es.menu.main]]
   name = "Kit virtual"
   URL = "/swag/"
   weight = 3
 
-  [[languages.es.menu.main]]
-  name = "Networking"
-  URL = "/networking/"
-  weight = 4
+  #[[languages.es.menu.main]]
+  #name = "Networking"
+  #URL = "/networking/"
+  #weight = 4
 
   [[languages.es.menu.main]]
   name = "FAQ"
@@ -167,20 +182,20 @@ link = "https://devrel.sg.com.mx"
     weight = 1
 
 
-  [[languages.en.menu.main]]
-    name = "Speakers"
-    URL = "/speakers/"
-    weight = 2
+  #[[languages.en.menu.main]]
+  #name = "Speakers"
+  #URL = "/speakers/"
+  #weight = 2
 
   [[languages.en.menu.main]]
     name = "Perks"
     URL = "/swag/"
     weight = 3
 
-  [[languages.en.menu.main]]
-  name = "Networking"
-  URL = "/networking/"
-  weight = 4
+  #[[languages.en.menu.main]]
+  #name = "Networking"
+  #URL = "/networking/"
+  #weight = 4
 
   [[languages.en.menu.main]]
     name = "FAQ"
@@ -189,8 +204,8 @@ link = "https://devrel.sg.com.mx"
 
   [languages.en.params.navigation_button]
     enable = true
-    label = "Live"
-    link = "/sgvirtual/live"
+    label = "Register"
+    link = "/sgvirtual/"
 
 
 [taxonomies]
