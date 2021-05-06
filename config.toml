@@ -1,7 +1,7 @@
 
 ######################## default configuration ####################
-baseURL = "/sgvirtual"
-title = "SG Virtual Conference"
+baseURL = "https://sg.com.mx/sgvirtual/"
+title = "SG Virtual Enterprise Edition"
 enableRobotsTXT = true
 DefaultContentLanguage = "es"
 RemovePathAccents = true
