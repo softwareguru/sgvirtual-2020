@@ -9,6 +9,18 @@ sponsor_group:
       - logo : "images/logos/microsoft.png"
         link : "https://www.microsoft.com/es-mx/"
 
+  - title : "Gold"
+    slug : "sponsor"
+    sponsor:
+      - logo : "images/logos/google-cloud.png"
+        link : "https://cloud.google.com/"
+
+  
+  - title : "Partners"
+    slug : "partner"
+    sponsor:   
+      - logo : "images/logos/Logo_amiti.png"
+        link : "https://amiti.org.mx/"
    
                       
 # call to action in sponsor
