@@ -21,6 +21,8 @@ sponsor_group:
     sponsor:   
       - logo : "images/logos/Logo_amiti.png"
         link : "https://amiti.org.mx/"
+      - logo : "images/logos/prosoftware-logo.jpg"
+        link : "https://prosoftware.mx/"
    
                       
 # call to action in sponsor
