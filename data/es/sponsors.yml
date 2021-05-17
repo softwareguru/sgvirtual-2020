@@ -16,6 +16,8 @@ sponsor_group:
     sponsor:
       - logo : "images/logos/google-cloud.png"
         link : "https://cloud.google.com/"
+      - logo : "images/logos/LogoSistemasHumanos.png"
+        link : "https://sistemashumanos.com/"
 
   
   - title : "Partners"
