@@ -19,7 +19,7 @@
 
 
     <div class="speaker-strip">
-      {{ range .Data.Pages.ByTitle }}
+      {{ range where .Data.Pages "Params.year" "2021"}}
       <div class="speaker-item">
         <div class="speaker-block">
             <div class="headshot-box">

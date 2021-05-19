@@ -23,6 +23,9 @@ home = ["HTML", "RSS", "JSON"]
     [markup.goldmark.renderer]
       unsafe = true
 
+
+
+
 ############################# Plugins ##############################
 # CSS Plugins
 [[params.plugins.css]]
@@ -147,10 +150,10 @@ link = "https://devrel.sg.com.mx"
    URL = "newschedule/"
   
  
-  #[[languages.es.menu.main]]
-  #name = "Conferencistas"
-  #URL = "/speakers/"
-  #weight = 2
+  [[languages.es.menu.main]]
+  name = "Conferencistas"
+  URL = "/speakers/"
+  weight = 2
 
   [[languages.es.menu.main]]
   name = "Kit virtual"
@@ -182,10 +185,10 @@ link = "https://devrel.sg.com.mx"
     weight = 1
 
 
-  #[[languages.en.menu.main]]
-  #name = "Speakers"
-  #URL = "/speakers/"
-  #weight = 2
+  [[languages.en.menu.main]]
+  name = "Speakers"
+  URL = "/speakers/"
+  weight = 2
 
   [[languages.en.menu.main]]
     name = "Perks"
@@ -209,7 +212,9 @@ link = "https://devrel.sg.com.mx"
 
 
 [taxonomies]
+  tag = "tags"
   category = "categories"
+  speaker = "speakers"
   track = "tracks"
 
 
