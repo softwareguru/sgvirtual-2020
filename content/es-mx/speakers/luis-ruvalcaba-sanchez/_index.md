@@ -2,7 +2,7 @@
 title: "Luis Ruvalcaba Sanchez"
 date: 2021-05-19T14:18:18-05:00
 image : "/images/speakers/luis-ruvalcaba-sanchez.jpg"
-designation : "Cloud Solution Architect at Microsoft"
+designation : "Arquitecto de soluciones cloud en Microsoft"
 country: "mx"
 twitter: ""
 linkedin: "https://www.linkedin.com/in/luisruvalcaba/?originalSubdomain=mx"

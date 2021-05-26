@@ -1,5 +1,5 @@
 ---
-title: "Jesus Gil"
+title: "Jesús Gil"
 date: 2021-05-19T14:13:26-05:00
 image : "/images/speakers/jesus-gil.jpg"
 designation : "Customer Engineer Data & AI en Microsoft"

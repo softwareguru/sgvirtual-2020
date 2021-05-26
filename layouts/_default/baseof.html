@@ -8,7 +8,9 @@
 	{{ if not .IsHome }}
 	{{ partial "page-title.html" . }}
 	{{ end }}
-	{{- block "main" . }}{{- end }}
+	<main>
+	  {{- block "main" . }}{{- end }}
+    </main>
 	{{- partial "footer.html" . -}}
 	{{- partial "twitter_tag.html" . -}}
 </body>

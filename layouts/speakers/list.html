@@ -19,14 +19,13 @@
 
 
     <div class="speaker-strip">
-      {{ range where .Data.Pages "Params.year" "2021"}}
+      {{ range where .Data.Pages.ByTitle "Params.year" "2021"}}
       <div class="speaker-item">
         <div class="speaker-block">
             <div class="headshot-box">
             <a href="{{.Permalink}}">
               <img src="/sgvirtual{{ .Params.Image }}" alt="{{ .Title }}" class="img-fluid">
             </a>
-              <img src="/sgvirtual/images/flags/{{ .Params.country }}.svg" class="flag-ribbon">
             </div>
             <div class="speaker-info text-center">
               <h4 class="mb-0 mt-3"><a href="{{.Permalink}}">{{ .Title }}</a></h4>
