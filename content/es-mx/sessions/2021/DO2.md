@@ -1,7 +1,7 @@
 ---
 id: DO2
 title: Sesión presentada por Microsoft
-url: "/sessions/DO2"
+url: /sessions/do2
 speakers:
  - Jaqueline Ramos
 tracks:

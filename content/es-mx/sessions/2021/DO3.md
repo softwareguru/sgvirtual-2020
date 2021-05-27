@@ -1,7 +1,7 @@
 ---
 id: DO3
 title: Your First CI/CD Pipeline. Paid tools vs Free tools
-url: "/sessions/DO3"
+url: /sessions/do3
 speakers:
  - Jesús Medina
 tracks:

@@ -1,7 +1,7 @@
 ---
 id: DO1
 title: "Panel: DevOps en el mundo real"
-url: "/sessions/DO1"
+url: /sessions/do1
 speakers:
  - Emilio Osorio
  - Jaqueline Ramos
