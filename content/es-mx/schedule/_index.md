@@ -11,18 +11,18 @@ blocks:
     language: Ingeniería de datos
     time_start: 2021-06-01T16:00:00.000Z
 
- # - id: b
- #   host:
- #   language: Cloud Native
- #   time_start: 2021-06-08T16:00:00.000Z
+  - id: b
+    host:
+    language: Cloud Native
+    time_start: 2021-06-08T16:00:00.000Z
     
 
- # - id: c
- #   host: 
- #   language: DevOps
- #   time_start: 2021-06-15T16:00:00.000Z
+  - id: c
+    host: 
+    language: DevOps
+    time_start: 2021-06-15T16:00:00.000Z
 
-
+ 
 ---
 
 

@@ -2,6 +2,7 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
+{{ partial "page-title.html" . }}
 
 <section class="section-schedule section">
     <div class="container">
@@ -20,9 +21,14 @@
           {{ range .Data.Pages }}
         <div class="col-12 col-md-4 px-3 mb-3">
           <div class="card h-100">
-              <img src="/sgvirtual{{ .Params.Image }}" class="card-img-top" alt="..." width="200px" height="250px">
+
+              <a href="#date-{{.Params.id}}">
+                
+                <img src="/sgvirtual{{ .Params.Image }}" class="card-img-top" alt="..." width="200px" height="250px">
+            
             <div class="card-body">
-              <h3 class="card-title">{{ .Title }}</h3>        
+              <h3 class="card-title">{{ .Title }}</h3>     
+            </a>    
               <h6 class="card-subtitle mb-4 text-muted">{{ .Params.Description }}</h6>
               </div>
             </div>
@@ -33,12 +39,12 @@
     </div>
   </section>
 
-{{ partial "page-title.html" . }}
 
 <div class="container">
     <div class="content my-4">
         El horario de las sesiones se despliega en tu horario local.
     </div>  
+
     {{ range .Params.blocks }}
     <div class="schedule-block">
         <h3><span id="date-{{ .id }}">{{ .time_start }}</span></h3>

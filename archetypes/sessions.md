@@ -1,7 +1,7 @@
 ---
 id: {{ .Name }}
 title: 
-url: /sessions/
+url: "/sessions/{{ .Name }}"
 speakers:
  - 
 tracks:
