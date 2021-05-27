@@ -138,22 +138,7 @@ link = "https://devrel.sg.com.mx"
   name = "Agenda"
   identifier = "agenda"
   URL = "/schedule/"
-  weight = 1
-  hasChildren = true
-
- ##### Sub menu de Agenda#####
-  [[languages.es.menu.main]]
-  parent = "agenda"
-  name = "Diciembre 2020"
-  identifier = "agenda2020"
-   URL = "schedule/"
-
-  [[languages.es.menu.main]]
-  parent = "agenda"
-  name = "Junio 2021"
-  identifier = "agenda2021"
-   URL = "newschedule/"
-  
+  weight = 1  
  
   [[languages.es.menu.main]]
   name = "Conferencistas"

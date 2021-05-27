@@ -28,7 +28,7 @@
         <div class="inner-column">
           <div class="text-box">
             <h3>{{ .Title }}</h3>
-            <p class="session-meta" id="date">{{ with .Params.time_start | time }}{{ .Format "Jan-2 15:04" }}{{ end }}</p>
+            <p class="session-meta" id="date">{{ with .Params.time_start | time }}{{ .Format "Jan-2. 15:04" }} (CDMX, GMT-5){{ end }}</p>
             <p class="session-meta" id="lang">{{ with .Params.language }}Language: {{ humanize . }}{{ end }}</p>
             <div class="d-lg-none d-xl-none">
               By 
@@ -39,7 +39,7 @@
             
             {{ with .Params.slides }}
             <br>
-            <div class="mb-3"><a href='{{ if hasPrefix . "http" }}{{ . }}{{ else }}/istiocon-2021/slides/{{ . }}{{ end }}' target="_blanck" download><i class="fa fa-download" aria-hidden="true"></i>&nbsp; Download slides</a></div>
+            <div class="mb-3"><a href='{{ if hasPrefix . "http" }}{{ . }}{{ else }}/sgvirtual/slides/{{ . }}{{ end }}' target="_blanck" download><i class="fa fa-download" aria-hidden="true"></i>&nbsp; Download slides</a></div>
             {{ end }}          
 
             <div class="content mt-4">{{ .Content }}</div>
