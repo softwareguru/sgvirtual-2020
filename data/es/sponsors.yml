@@ -10,6 +10,8 @@ sponsor_group:
         link : "https://www.microsoft.com/es-mx/"
       - logo : "images/logos/elastic.png"
         link : "https://www.elastic.co/es/"
+      - logo : "images/logos/oracle-cloud.png"
+        link : "https://www.oracle.com/mx/cloud/"
 
   - title : "Gold"
     slug : "sponsor"

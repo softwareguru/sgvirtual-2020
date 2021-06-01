@@ -2,7 +2,7 @@
 title: "Jesús Medina"
 date: 2021-05-25T11:25:01-05:00
 image : "/images/speakers/jesus-medina.jfif"
-designation : "Site Reliability Engineer en Luxoft"
+designation : "Sr. DevOps en Luxoft"
 country: "mx"
 twitter: ""
 linkedin: ""
