@@ -4,7 +4,7 @@ date: 2021-05-20T14:01:57-05:00
 image : "/images/speakers/andrés-bravo.jpg"
 designation : "Head of Data en propiedades.com"
 country: "mx"
-twitter: ""
+twitter: "https://twitter.com/bitshoroscope?lang=en"
 linkedin: "https://www.linkedin.com/in/abravo-m?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bws3pIRE9Rce0Ea%2ByRlvMdg%3D%3D"
 github: ""
 year: "2021"
