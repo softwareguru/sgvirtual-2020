@@ -10,4 +10,4 @@ github: ""
 year: "2021"
 ---
 
-Elastic Engineer y Estudiante de Ing de Sistemas en la Unviersidad de los Andes. Soluciono y a veces creo problemas con el Elastic Stack. Si necesitas ayuda, no dudes en conectar.
+Elastic Engineer en NowBit desde Febrero de 2020 y Estudiante de Ing de Sistemas en la Unviersidad de los Andes. Soluciono y a veces creo problemas con el Elastic Stack.

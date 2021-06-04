@@ -1,7 +1,7 @@
 ---
 title: "Javier Castañón"
 date: 2021-05-20T13:49:26-05:00
-image : "/images/speakers/javier-castanon.jpg"
+image : "/images/speakers/javier-castanon.jpeg"
 designation : "Arquitecto de transformación digital en sector financiero"
 country: "mx"
 twitter: "https://twitter.com/javier_castanon"
