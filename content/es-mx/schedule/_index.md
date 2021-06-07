@@ -19,7 +19,7 @@ blocks:
 
   - id: c
     host: 
-    language: DevOps
+    language: Devops
     time_start: 2021-06-15T16:00:00.000Z
 
  
