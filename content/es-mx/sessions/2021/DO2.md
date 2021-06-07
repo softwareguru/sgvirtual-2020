@@ -1,6 +1,6 @@
 ---
 id: DO2
-title: Sesión presentada por Microsoft
+title: Aceleración de la entrega de software con CI / CD y GitHub Actions/Azure DevOps
 url: /sessions/do2
 speakers:
  - Jaqueline Ramos
@@ -12,5 +12,5 @@ video:
 slides:
 ---
 
-
+Exploraremos cómo entregar su software de manera continua, asertiva y con las mejores prácticas utilizando GitHub Actions/Azure DevOps y prácticas relacionadas con DevOps, como la integración continua y la implementación continua.
 

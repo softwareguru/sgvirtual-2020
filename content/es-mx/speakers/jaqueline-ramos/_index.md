@@ -10,5 +10,9 @@ github: ""
 year: "2021"
 ---
 
-Professional with years of experience working with projects, ongoing projects and good practices in development teams, infrastructure, monitoring and in the last 7 years with ALM and DevOps.
+CSA en Microsoft, Ex-MVP y actualmente MVP Reconnect.
+
+MCT (Microsoft Certified Trainer) e Instructor de Linkedin Learning.
+
+Amante de las comunidades, donde siempre busca apoyar de alguna manera, ya sea con publicaciones en blogs, capacitaciones y charlas al alcance de todos.
 
