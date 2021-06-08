@@ -7,7 +7,7 @@ speakers:
 tracks:
 block: c
 time_start: 2021-06-01T16:00:00-05:00
-time_end: 2021-06-01T17:30:00-05:00
+time_end: 2021-06-01T16:45:00-05:00
 video:
 slides:
 ---
