@@ -6,7 +6,7 @@ speakers:
  - Emilio Osorio
  - Jaqueline Ramos
  - Marco Slehiman
- - Carmen Cortes
+ - Carmen Cortés
 tracks:
 block: c
 time_start: 2021-06-01T11:00:00-05:00
