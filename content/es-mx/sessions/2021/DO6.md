@@ -1,6 +1,6 @@
 ---
 id: DO6
-title: "Optimizando el buscador de tu website con Elasticsearch. Caso: El Empleo"
+title: "Elastic Stack en el mundo DevOps"
 url: /sessions/do6
 speakers:
  - Jhon Guzmán
