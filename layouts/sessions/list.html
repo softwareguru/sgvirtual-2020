@@ -1,13 +1,13 @@
 {{ define "main" }}
 
-{{ $data := index .Site.Data .Site.Language.Lang }}
+
 
 <div class="container mb-4">
     <p class="text-center">
         {{ .Content }}
     </p>
 
-    <table class="table table-bordered" data-search="true" data-search-align="left">
+    <table class="table table-bordered" data-toggle="table" data-search="true" data-search-align="left" >
         <thead>
             <tr>
                 <th data-field="title">Título</th>
@@ -32,7 +32,7 @@
             {{ end }}
         </tbody>
       </table>
-    
+      
 </div>
 
 
