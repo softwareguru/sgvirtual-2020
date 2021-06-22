@@ -1,14 +1,14 @@
 ---
 id: DO2
 title: Aceleración de la entrega de software con CI / CD y GitHub Actions/Azure DevOps
-url: /sessions/do2
+
 speakers:
  - Jaqueline Ramos
 tracks:
 block: c
 time_start: 2021-06-01T11:45:00-05:00
 time_end: 2021-06-01T12:30:00-05:00
-video:
+video: https://www.youtube.com/embed/xtx3F70P6eg
 slides:
 ---
 

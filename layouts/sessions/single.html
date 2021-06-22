@@ -39,7 +39,7 @@
             
             {{ with .Params.slides }}
             <br>
-            <div class="mb-3"><a href='{{ if hasPrefix . "http" }}{{ . }}{{ else }}/sgvirtual/slides/{{ . }}{{ end }}' target="_blanck" download><i class="fa fa-download" aria-hidden="true"></i>&nbsp; Download slides</a></div>
+            <div class="mb-3"><a href='{{ if hasPrefix . "http" }}{{ . }}{{ else }}/sgvirtual/slides/{{ . }}{{ end }}' target="_blanck" download><i class="fa fa-download" aria-hidden="true"></i>&nbsp; Descargar slides</a></div>
             {{ end }}          
 
             <div class="content mt-4">{{ .Content }}</div>

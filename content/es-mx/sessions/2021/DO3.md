@@ -1,14 +1,14 @@
 ---
 id: DO3
 title: Your First CI/CD Pipeline. Paid tools vs Free tools
-url: /sessions/do3
+
 speakers:
  - Jesús Medina
 tracks:
 block: c
 time_start: 2021-06-01T12:30:00-05:00
 time_end: 2021-06-01T13:15:00-05:00
-video:
+video: https://www.youtube.com/embed/5T6A_4HJpvM
 slides:
 ---
 

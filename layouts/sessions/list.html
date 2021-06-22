@@ -2,40 +2,40 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
+<div class="container mb-4">
+    <p class="text-center">
+        {{ .Content }}
+    </p>
 
-<!-- speaker style 2 -->
-<section class="speaker-2 section bg-gray">
-  <div class="container">
-    <div class="row section-heading">
-      <div class="col-lg-6">
-        <div class="heading">
-          <span class="stroke-text">{{ .Title }}</span>
-          <div class="pl-90 content">
-            {{ .Content }}
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="speaker-strip">
-      {{ range .Data.Pages.ByTitle }}
-      <div class="speaker-item">
-        <div class="speaker-block">
-            <div class="headshot-box">
-            <a href="{{.Permalink}}">
-              <img src="/sgvirtual{{ .Params.Image }}" alt="{{ .Title }}" class="img-fluid">
-            </a>
-              <img src="/sgvirtual/images/flags/{{ .Params.country }}.svg" class="flag-ribbon">
-            </div>
-            <div class="speaker-info text-center">
-              <h4 class="mb-0 mt-3"><a href="{{.Permalink}}">{{ .Title }}</a></h4>
-              <p>{{ .Params.Designation}}</p>
-            </div>
-        </div>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
-<!-- /speaker style 2 -->
+    <table class="table table-bordered" data-search="true" data-search-align="left">
+        <thead>
+            <tr>
+                <th data-field="title">Título</th>
+                <th data-field="speaker">Speaker(s)</th>
+                <th data-field="recording">Grabación</th>
+                <th data-field="slides">Slides</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{ range sort .Data.Pages ".Params.time_end" }}
+            <tr>
+                <td><a class="session-title" href="{{.Permalink}}">{{ .Params.title }}</a></td>
+                <td>{{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</td>
+                <td class="text-center">{{ with .Params.video }}<a
+                        href='{{ replace . "https://www.youtube.com/embed" "https://youtu.be" }}' target="_blank"><i
+                            class="fab fa-youtube" aria-hidden="true" title="Watch"></i></a>{{ end }}</td>
+                <td class="text-center">{{ with .Params.slides }}<a
+                        href='{{ if hasPrefix . "http" }}{{ . }}{{ else }}/istiocon-2021/slides/{{ . }}{{ end }}'
+                        target="_blank" download><i class="fa fa-download" aria-hidden="true"
+                            title="Slides"></i></a>{{ end }}</td>
+            </tr>
+            {{ end }}
+        </tbody>
+      </table>
+    
+</div>
+
+
 
 {{ end }}
+

@@ -1,7 +1,7 @@
 ---
 id: DO1
 title: "Panel: DevOps en el mundo real"
-url: /sessions/do1
+
 speakers:
  - Emilio Osorio
  - Jaqueline Ramos
@@ -11,7 +11,7 @@ tracks:
 block: c
 time_start: 2021-06-01T11:00:00-05:00
 time_end: 2021-06-01T11:45:00-05:00
-video:
+video: https://www.youtube.com/embed/RiZVSSwudRE
 slides:
 draft: false
 ---

@@ -1,14 +1,14 @@
 ---
 id: DO7
 title: "Workshop: Integra tus herramientas con  Atlassian Open DevOps"
-url: /sessions/do7
+
 speakers:
  - Francisco Castrillo 
 tracks:
 block: c
 time_start: 2021-06-01T16:45:00-05:00
 time_end: 2021-06-01T18:15:00-05:00
-video:
+video: https://www.youtube.com/embed/2lfhJlVACf4
 slides:
 ---
 
